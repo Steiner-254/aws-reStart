@@ -11,4 +11,4 @@
 >> - Introduced softwares and hands on practice learning materials that will use.
 >> - We also got grouped into small subgroups.
 
->> ***Happy AWS Cloud Learning <3***
+>> ***Happy `AWS reStart` Cloud Learning <3***
