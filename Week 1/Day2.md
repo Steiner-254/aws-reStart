@@ -84,3 +84,7 @@
 - Computer networks.
 - Network Interface Card.
 - Operating Systems.
+- Basic Computing Concepts.
+- Servers.
+- Virtual Machines & Benefits of the Virtual Machines.
+- Software Development Life Cycle.
