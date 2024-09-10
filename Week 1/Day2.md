@@ -87,4 +87,4 @@
 - Basic Computing Concepts.
 - Servers.
 - Virtual Machines & Benefits of the Virtual Machines.
-- Software Development Life Cycle.
+- Software Development Life Cycle (SDLC).
