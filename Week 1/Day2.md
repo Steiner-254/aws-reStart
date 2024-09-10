@@ -87,4 +87,19 @@
 - Basic Computing Concepts.
 - Servers.
 - Virtual Machines & Benefits of the Virtual Machines.
-- Software Development Life Cycle (SDLC).
+- Software Development Life Cycle (SDLC):
+>> Plan
+
+>> Analyze
+
+>> Design
+
+>> Develop
+
+>> Test
+
+>> Implement
+
+>> Maintain
+
+- 
