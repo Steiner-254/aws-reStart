@@ -81,4 +81,6 @@
 - Programming languages such as Java, Javascript, Python, C e.t.c
 - Devices.
 - Components inside a computer; Hardware & Software.
-- 
+- Computer networks.
+- Network Interface Card.
+- Operating Systems.

@@ -1,14 +1,8 @@
-# Welcome To The Ajira Digital `aws reStart Program`!
-- ***Day 1 - Friday***
+# Introduction To The Subclasses, Classrooms, Timetable, Sessions & Learning Materials
+- ***Day 1 - Monday***
 
-- The program is supported and sponsored by AWS!
-- The program includes both theory and practical lessons.
-- The program runs for 12 weeks.
-- In this day we had a session with the trainers and sponsors whereby:
-
->> - They introduced the program.
->> - Described the importance of the program.
->> - Introduced softwares and hands on practice learning materials that will use.
->> - We also got grouped into small subgroups.
-
->> ***Happy `AWS reStart` Cloud Learning <3***
+- Introduction to the learning classrooms.
+- Introduction to the timetable.
+- Introduction to rules of the `aws reStart` program.
+- Introduction to time management during the program.
+- Introduction to learning materials such as *Canvas* that has the labs and other learning materials.
