@@ -73,4 +73,7 @@
 63. External Tool
 64. The Portfolio Project
 
+- Learning how technology is part of our lives.
+- Technology is part of the digital lives.
+- Technology plays great roles in innovations.
 - 
