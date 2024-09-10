@@ -5,3 +5,4 @@
 - Walkthrough for the course.
 - Basics skills on `Clients Obsessions`.
 - Amazon Leadership Principles.
+- Do all given projects from start to finish.
