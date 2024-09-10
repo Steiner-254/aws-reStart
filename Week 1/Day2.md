@@ -88,18 +88,18 @@
 - Servers.
 - Virtual Machines & Benefits of the Virtual Machines.
 - Software Development Life Cycle (SDLC):
->> Plan
+>> Plan - Planning
 
->> Analyze
+>> Analyze - Analyzing
 
->> Design
+>> Design - use softwares such as [Draw](https://draw.io/)
 
->> Develop
+>> Develop - Coding and programming
 
->> Test
+>> Test - Different types of testing (user testing, functional testing, security testing to catch the vulnerabilities, perfomance testing to meet the requirements)
 
->> Implement
+>> Implement - Pushing to production.
 
->> Maintain
+>> Maintain - Fix proplems and pushing updates incase of new patches or functionalities.
 
-- 
+- Do the KC's - ***Knowledge Checks***
