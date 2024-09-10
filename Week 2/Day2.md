@@ -80,4 +80,5 @@
 - Differet types of applications; desktop applications, mobile applications, web applications, IoT applications e.t.c
 - Programming languages such as Java, Javascript, Python, C e.t.c
 - Devices.
+- Components inside a computer; Hardware & Software.
 - 
