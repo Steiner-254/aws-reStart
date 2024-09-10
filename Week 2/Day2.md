@@ -77,6 +77,7 @@
 - Technology is part of the digital lives.
 - Technology plays great roles in innovations.
 - Computer applications.
-- Differet types of applications; desktop applications, mobile applications, web applications e.t.c
+- Differet types of applications; desktop applications, mobile applications, web applications, IoT applications e.t.c
 - Programming languages such as Java, Javascript, Python, C e.t.c
+- Devices.
 - 
