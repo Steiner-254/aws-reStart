@@ -129,4 +129,30 @@
 
 >> Data storage space
 
-- 
+- Legend:
+
+>> Access control lists (ACLs)
+
+>> Amazon Elastic Block Store (Amazon EBS)
+
+>> Amazon Elastic File Store (Amazon EFS)
+
+>> Amazon Machine Image (AMI)
+
+>> Amazon Relational Database Service (Amazon RDS)
+
+>> Amazon Simple Storage Service (Amazon S3) 
+
+>> Amazon Virtual Private Cloud (Amazon VPC)
+
+>> AWS Identity and Access Management (IAM)
+
+>> Direct-attached storage (DAS)
+
+>> Network access control lists (network ACLs)
+
+>> Network-attached storage (NAS)
+
+>> Relational database management system (RDBMS)
+
+>> Storage area network (SAN)
