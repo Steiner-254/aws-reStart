@@ -102,5 +102,19 @@
 >> Cloud computing or cloud services providers like Amazon Web Services (AWS) provide rapid access to flexible and low-cost IT resources. With cloud computing, you don’t need to make large upfront investments in hardware. As a business owner, you don’t need to purchase a physical location, servers, storage, or databases
 
 - ***Why are so many companies interested in moving to the cloud?*** 
->> Companies are moving to the cloud because it presents many benefits including cost savings because you pay only for the resources that you use.This slide provides answers to the questions posed on the previous slide.Next, you explore the major reasons why so many companies are moving to the cloud.
+>> Companies are moving to the cloud because it presents many benefits including cost savings because you pay only for the resources that you use.
 
+
+- For more information, see the Overview of Amazon Web Services (whitepaper)[https://docs.aws.amazon.com/whitepapers/latest/aws-overview/aws-overview.pdf]
+
+
+# What Is AWS - Amazon Web Services?
+- ***At the core of the lesson You will learn how to do the following:***
+
+>> Explain, in general, what a web service is.
+
+>> Explore the main services that Amazon Web Services (AWS) offers.
+
+>> Examine ways to access AWS services.
+
+>> Navigate the AWS documentation website.
