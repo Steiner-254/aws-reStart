@@ -36,3 +36,10 @@
 - Maintains previous versions of the application if they are still supported
 - Runs initial test cases to ensure that the product works
 - Writes code to fix and address bugs or other issues that are reported to them
+
+## Database administrator
+- Maintains the data that is needed in the application
+- Is responsible for planning, maintaining, and configuring access to that data and for ensuring the availability of enough computing resources to make an application work correctly
+- Secures the data in the database
+- Backs up data (and restores data as needed)
+- Is responsible for database performance and optimization
