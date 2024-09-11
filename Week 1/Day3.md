@@ -72,4 +72,14 @@
 
 >> For more information, see What is cloud computing? at https://aws.amazon.com/what-is-cloud-computing/.
 
+- Traditional Computing Model.
 
+## Cloud Service Models
+1. Iaas - Infrastructure As A Service
+2. PaaS - Platform As A Service
+3. SaaS - Software As A Service
+
+## 3 Cloud Deployment Models
+1. Cloud
+2. Hybrid
+3. Private
