@@ -118,3 +118,5 @@
 >> Examine ways to access AWS services.
 
 >> Navigate the AWS documentation website.
+
+- In this module, you will learn about Amazon Web Services (AWS) and the products and services that are available. You will also learn how to access AWS services and use the AWS documentation.
