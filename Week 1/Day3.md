@@ -183,4 +183,22 @@
 
 >> Amazon API Gateway at https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html
 
-- 
+
+# AWS Documentation
+- Find user guides, developer guides, API references, tutorials, and more.
+- For more information, see AWS Documentation.
+- Technical papers and guidesare also available, including these papers, which are recommended reading for the AWS Cloud Practitioner exam:
+
+>> Overview of Amazon Web Services
+
+>> Overview of Architecting for the Cloud: AWS Best Practices–Overview of How AWS Pricing Works–Overview of the Total Cost of (Non) Ownership of Web Applications in the Cloud
+
+- Open the AWS Documentation page at `https://docs.aws.amazon.com/`, and see whether you can identify at least six guides or references.
+
+
+## Key TakeAways
+- AWS is a cloud services provider. AWS offers a broad set of global cloud-based products—which are also known as services—that are designed to work together.
+- AWS offers many service categories, and each category has many services to choose from.
+- Choose a service that is based on your business goals and technology requirements.
+- You can interact with AWS services in three different ways.
+- Use the AWS documentation as your main resource for help.
