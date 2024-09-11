@@ -17,3 +17,11 @@
 - Assigns tasks to different team members
 - Determines a timeline for the project
 - Provides updates to upper management
+
+## Analyst
+- Is sometimes called the `business analyst` or `requirements analyst`
+- Defines the purpose for each project
+- Gathers requirements from leadership, clients, and users
+- Organizes requirements into tasks for developers and quality assurance (QA) to use for implementation and testing
+
+## 
