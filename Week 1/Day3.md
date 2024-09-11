@@ -51,3 +51,12 @@
 3. Use version control software to keep track of changes.
 4. Document important decisions and any required project knowledge.
 5. Encourage two-way feedback.•Use time wisely.
+
+
+## Questions ???
+1. Which team member `tests` an application?
+- Quality assurance team members run all tests and investigate any failures.
+- The Software developer runs all initial test cases to ensure that the product works.
+
+2. Which team member `secures the data in the database`?
+- The database administrator ensures the security of the data in the database.
