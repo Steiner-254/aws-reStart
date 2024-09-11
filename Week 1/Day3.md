@@ -43,3 +43,11 @@
 - Secures the data in the database
 - Backs up data (and restores data as needed)
 - Is responsible for database performance and optimization
+
+## Effective software teams
+- The following are some general guidelines: 
+1. Translate goals into a clear definition of work.
+2. Prototype and iterate over designs.
+3. Use version control software to keep track of changes.
+4. Document important decisions and any required project knowledge.
+5. Encourage two-way feedback.•Use time wisely.
