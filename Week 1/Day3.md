@@ -82,4 +82,13 @@
 ## 3 Cloud Deployment Models
 1. Cloud
 2. Hybrid
-3. Private
+3. Private (On-Premises)
+
+## What can you do in the cloud?
+- ***You can use cloud computing for the following:***
+- Application hosting
+- Backup and storage
+- Content delivery•
+- Websites
+- Enterprise IT
+- Databases
