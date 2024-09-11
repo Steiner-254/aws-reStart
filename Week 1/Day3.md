@@ -156,3 +156,31 @@
 >> Relational database management system (RDBMS)
 
 >> Storage area network (SAN)
+
+
+## Web Services
+- A `webservice` is any piece of software that makes itself available over the internet.
+- It uses a standardized format,either Extensible Markup Language (XML) or JavaScript Object Notation (JSON), for the request and the response of an application programming interface (API) interaction.
+
+## AWS Services
+- AWS is a secure cloud services provider with many different services that include solutions for the following: Blockchain, Analytics, Database, Storage e.t.c
+
+## Choosing A Service
+- The service that you select depends onyour business goals and technology requirements.
+
+## 3 Ways To Interact With AWS
+1. AWS Management Console.
+2. AWS Command Line Interface (AWS CLI)
+3. AWS Software Development Kits (SDKs)
+
+- For more information, see the following links:
+
+>> AWS Console Mobile Application at https://aws.amazon.com/console/mobile/
+
+>> AWS CLI at https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html
+
+>> Tools to Build on AWS at https://aws.amazon.com/tools/
+
+>> Amazon API Gateway at https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html
+
+- 
