@@ -9,3 +9,11 @@
 - Responsibilities of the quality assuarance role.
 - Responsibilities of the software developer.
 - Responsibilities of the database administrator.
+
+## Project Manager Roles:
+- Is responsible for developing a project plan
+- Recruits staff to fulfill other roles
+- Leads and manages the project team
+- Assigns tasks to different team members
+- Determines a timeline for the project
+- Provides updates to upper management
