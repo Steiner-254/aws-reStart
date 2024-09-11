@@ -1,4 +1,4 @@
-# Development Team Roles
+# Development Team Roles & What Is Cloud Computing
 - ***Day 3***
 
 ## Development Team Roles
@@ -60,3 +60,9 @@
 
 2. Which team member `secures the data in the database`?
 - The database administrator ensures the security of the data in the database.
+
+
+## What is Cloud Computing?
+- Cloud computing is the on-demanddelivery of compute power, database, storage, applications, and other IT resources.
+- These resources are delivered through a cloud services platform through the internet with pay-as-you-gopricing.Cloud computing is the on-demand delivery of compute power, database, storage, applications, and other IT resources. These resources are delivered through a cloud services platform through the internet with pay-as-you-go pricing.In its most basic definition, the cloud is a computer that is located somewhere else, accessed through the internet, and used in some way. Web services is another name for what people call the cloud.The cloud comprises server computers in large data centers in different locations around the world. When you use a cloud service like Amazon Web Services (AWS), you use the computers that AWS owns. The computers contain various technology features and services, which are like building blocks that you can use to assemble solutions. These solutions help users meet their business goals and technology requirements. With cloud computing, organizations can consume on-demand computing and storage resources instead of building, operating, and improving infrastructure on their own.For more information, see What is cloud computing? at https://aws.amazon.com/what-is-cloud-computing/.
+
