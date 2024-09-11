@@ -92,3 +92,15 @@
 - Websites
 - Enterprise IT
 - Databases
+
+
+# Advantages Of Cloud Computing
+- ***How does cloud computing benefit you?*** 
+>> Cloud computing gives you access to servers, storage, databases, and a broad set of application services over the internet. Cloud storage is a good example of cloud computing. Cloud storage gives you the option to freeup memory (space) on your computer or mobile device. Imagine a situation where your mobile device runs out of memory when you want to download and save a new song, photo, or video
+
+- ***If you have a business, how can cloud computing benefit your business?***
+>> Cloud computing or cloud services providers like Amazon Web Services (AWS) provide rapid access to flexible and low-cost IT resources. With cloud computing, you don’t need to make large upfront investments in hardware. As a business owner, you don’t need to purchase a physical location, servers, storage, or databases
+
+- ***Why are so many companies interested in moving to the cloud?*** 
+>> Companies are moving to the cloud because it presents many benefits including cost savings because you pay only for the resources that you use.This slide provides answers to the questions posed on the previous slide.Next, you explore the major reasons why so many companies are moving to the cloud.
+
