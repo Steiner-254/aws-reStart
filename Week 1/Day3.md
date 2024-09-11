@@ -120,3 +120,5 @@
 >> Navigate the AWS documentation website.
 
 - In this module, you will learn about Amazon Web Services (AWS) and the products and services that are available. You will also learn how to access AWS services and use the AWS documentation.
+- AWS offers three different models of cloud services: infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS). All of these services are on theAWS Cloud.
+- 
