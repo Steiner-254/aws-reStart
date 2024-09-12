@@ -95,4 +95,28 @@
 - Availability Zones are designed for fault isolation.
 - Availability Zones are interconnectedwith other Availability Zones byusing high-speed private links.
 - You choose your Availability Zones.
-- AWS recommends replicating across Availability Zones for resilien
+- AWS recommends replicating across Availability Zones for resilience
+
+
+- All else being equal, it’s generally desirable to run your applications and store your data in a Region that is as close as possible to the user and systems that will access them. This will help you reduce latency. CloudPing is one website that you can use to test latency between your location and all AWS Regions.For more information about CloudPing, see the CloudPing website at https://www.cloudping.info/. 
+- Keep in mind that not all services are available in all Regions. For more information, see the AWS Regional Services page at https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/. 
+
+## Points of presence
+- ***AWS provides a global network of 216 PoP locations.***
+- The PoPs consist of 205 edge locations and 11 Regional edge caches.
+- PoPs are used with Amazon CloudFront, a global content delivery network (CDN) that delivers content to end users with reduced latency.
+- Regional edge caches are used for content with infrequent access
+
+
+- A PoP is where end users access AWS services through either the Amazon CloudFront or the Amazon Route 53 services.
+- For more information about AWS Global Infrastructure, see the Global Infrastructure page at https://aws.amazon.com/about-aws/global-infrastructure/?p=ngi&loc=0.
+
+## AWS infrastructure features 
+- ***Elastic and scalable:***
+- Elastic infrastructure that dynamic adapts to capacity
+- Scalable infrastructure that adjusts to accommodate growth 
+- ***Fault-tolerant:***
+- Continues operating properly in the presence of a failure
+- Includes built-in redundancy of components
+- ***Highly available:***
+- High level of operational performance with reduced downtime
