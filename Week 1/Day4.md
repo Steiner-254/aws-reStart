@@ -177,4 +177,6 @@
 - AWS Trusted Advisor helps you optimize performance and security.
 - AWS Well-Architected Tool provides help in reviewing and improving your workloads.
 - AWS CloudTrail tracks user activity and API usage.
+
+## AWS Shared Responsibility Model
 - 
