@@ -1,4 +1,4 @@
-# AWS Pricing & AWS Infrastructure Overview
+# AWS Pricing & AWS Infrastructure Overview & Sandbox Environment & AWS Services and Categories & AWS Shared Responsibility Model
 - ***Day 4 Thursday***
 
 ## AWS Pricing Model
