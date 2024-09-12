@@ -163,3 +163,18 @@
 - AWS Artifact provides on-demand access to AWS security and compliance reports and select online agreements. 
 - AWS Key Management Service (AWS KMS) provides the ability to create and manage keys. You can use AWS KMS to control the use of encryption across a wide range of AWS services and in your applications. 
 - AWS Shield is a managed distributed denial of service (DDoS) protection service that safeguards applications running on AWS.
+
+## AWS Cost Management service category
+- ***AWS Cost Management services include the services listed here and others.*** 
+- The AWS Cost and Usage Report contains the most comprehensive set of AWS cost and usage data available. It includes additional metadata about AWS services, pricing, and reservations.
+- AWS Budgets provides the ability to set custom budgets that alert you when your costs or usage exceeds (or will likely exceed) your budgeted amount.
+- AWS Cost Explorer has an easy-to-use interface that you can use to visualize, understand, and manage your AWS costs and usage over time. 
+- The AWS Management Console provides a web-based user interface for accessing your AWS account.
+- AWS Config provides a service that helps you track resource inventory and changes.
+- Amazon CloudWatchgives you the ability to monitor resources and applications.
+- AWS Auto Scaling provides features that you can use to scale multiple resources to meet demand.
+- AWS Command Line Interface (AWS CLI) provides a unified tool to manage AWS services.
+- AWS Trusted Advisor helps you optimize performance and security.
+- AWS Well-Architected Tool provides help in reviewing and improving your workloads.
+- AWS CloudTrail tracks user activity and API usage.
+- 
