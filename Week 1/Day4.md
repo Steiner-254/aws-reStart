@@ -120,3 +120,7 @@
 - Includes built-in redundancy of components
 - ***Highly available:***
 - High level of operational performance with reduced downtime
+
+
+# AWS Services and Categories
+- ***You will learn how to identify AWS services and service categories.***
