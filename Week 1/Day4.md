@@ -124,3 +124,27 @@
 
 # AWS Services and Categories
 - ***You will learn how to identify AWS services and service categories.***
+
+## AWS service categories
+- AWS offers a broad set of cloud-based services in many different product or service categories. Each category consists of one or more services. This course won’t introduce you to each service. Instead, the focus of this course is on the most widely used services, which will provide a good introduction to the AWS Cloud. This course also focuses on services that are more likely to be covered in the AWS Certified Cloud Practitioner exam.
+- For more information about AWS offerings, see the AWS Cloud Products page at https://aws.amazon.com/products. All AWS offerings are organized into service categories. For example, if you choose Compute, Amazon Elastic Compute Cloud (Amazon EC2) is the first service on the list. The Compute category also lists other products and services.
+
+## Storage service category
+- Amazon Simple Storage Service (Amazon S3) is an object storage service that offers scalability, data availability, security, and performance. Use it to store and protect any amount of data for websites and mobile apps. It is also used for backup and restore, archive, enterprise applications, Internet of Things (IoT) devices, and big data analytics. 
+- Amazon Elastic Block Store (Amazon EBS) is high-performance block storage that is designed for use with Amazon EC2 for both throughput-intensive and transaction-intensive workloads. It is used for various workloads, such as relational and non-relational databases, enterprise applications, containerized applications, big data analytics engines, file systems, and media workflows.
+- Amazon Elastic File System (Amazon EFS) provides a scalable, fully managed elastic Network File System (NFS) file system for AWS Cloud services and on-premises resources. It is built to scale on demand to petabytes, growing and shrinking automatically as you add and remove files. Using Amazon EFS reduces the need to provision and manage capacity to accommodate growth.
+- Amazon Simple Storage Service Glacier is a secure, durable, and low-cost Amazon S3 cloud storage class for data archiving and long-term backup. It is designed to deliver 11 9s (99.999999999 percent) of durability and to provide comprehensive security and compliance capabilities to meet stringent regulatory requirements. 
+- Amazon Elastic Compute Cloud (Amazon EC2) provides resizable compute capacity as virtual machines in the cloud. Amazon EC2 Auto Scaling gives you the ability to automatically add or remove EC2 instances according to conditions that you define. 
+- AWS Elastic Beanstalk is a service for deploying and scaling web applications and services. It deploys them on familiar servers such as Apache HTTP Server and Microsoft Internet Information Services (IIS). 
+- AWS Lambda gives you the ability to run code without provisioning or managing servers. You pay for only the compute time that you consume, so you won’t be charged when your code isn’t running.
+- Amazon Elastic Container Service (Amazon ECS) is a highly scalable, high-performance container orchestration service that supports Docker containers. 
+- Amazon Elastic Container Registry (Amazon ECR) is a fully managed Docker container registry that facilitates storing, managing, and deploying Docker container images. 
+- Amazon Elastic Kubernetes Service (Amazon EKS) facilitates deploying, managing, and scaling containerized applications that use Kubernetes on AWS.
+- AWS Fargate is a compute engine for Amazon ECS that you can use to run containers without managing servers or clusters.
+- Amazon Relational Database Service (Amazon RDS) facilitates setting up, operating, and scaling a relational database in the cloud. It provides resizable capacity while automating time-consuming administration tasks, such as hardware provisioning, database setup, patching, and backups. 
+- Amazon Aurora is a relational database that is compatible with MySQL and PostgreSQL. It is up to five times faster than standard MySQLdatabases and three times faster than standard PostgreSQL databases.
+- Amazon Redshift gives you the ability to run analytic queries against petabytes of data that is stored locally in Amazon Redshift. You can also run queries directly against exabytes of data that are stored in Amazon S3. Amazon Redshift delivers fast performance at any scale.
+- Amazon DynamoDB is a key-value and document database that delivers single-digit millisecond performance at any scale with built-in security, backup and restore, and in-memory caching.
+
+## Networking and Content Delivery service category
+- 
