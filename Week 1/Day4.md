@@ -57,3 +57,12 @@
 
 - AWS Pricing at https://aws.amazon.com/pricing/
 - AWS Pricing Overview at https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf
+
+
+# AWS Infrastructure Overview
+- ***You will learn how to do the following:***
+- Describe the AWS Global Infrastructure and its features.
+- Identify the difference between Amazon Web Services (AWS) Regions, Availability Zones, and points of presence (PoPs).
+
+- In this module, you will review the AWS Global Infrastructure and its features. You will also learn how to identify the difference between Amazon Web Services (AWS) Regions, Availability Zones, and points of presence (PoPs).  
+- 
