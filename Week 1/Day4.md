@@ -65,4 +65,28 @@
 - Identify the difference between Amazon Web Services (AWS) Regions, Availability Zones, and points of presence (PoPs).
 
 - In this module, you will review the AWS Global Infrastructure and its features. You will also learn how to identify the difference between Amazon Web Services (AWS) Regions, Availability Zones, and points of presence (PoPs).  
+
+## AWS Global Infrastructure
+- The AWS Global Infrastructure is designed and built to deliver a flexible, reliable, scalable, and securecloud computing environment with high-quality global network performance.
+- To learn more about the current AWS Regions, refer to the Global Infrastructure page at https://aws.amazon.com/about-aws/global-infrastructure/?p=ngi&loc=0
+
+## AWS Global Infrastructure (cont.)
+- AWS Cloud infrastructure spans 84 Availability Zones in 26 geographic Regions around the world, with many more on the way.
+- AWS offers 7 Regions in North America, 1 Region in South America, 6 Regions in Europe, 1 Region in the Middle East, 1 Region in Africa, and 10 Regions in the Asia Pacific. Within each Region, there is one or more Availability Zone.
+- Benefits include security, availability, performance, a large global footprint, scalability, and flexibility.
+- For more information, see Regions and Availability Zones at https://aws.amazon.com/about-aws/global-infrastructure/regions_az/?p=ngi&loc=2.
+
+## AWS data centers
+- The foundation for the AWS infrastructure is the data centers. 
+- Data centers usually have specific characteristics,  such as the following:
+
+>> They are a location where the actual physical data resides and data processing occurs.
+
+>> They house physical servers (typically 50,000 to 80,000 servers).
+
+>> They are online. (All data centers are online & No data center is cold (or not being used).)
+
+
+- The foundation for the AWS infrastructure is the data centers.  A data center is a location where the actual physical data resides and data processing occurs. AWS data centers are built in clusters in various global Regions.
+- For more information about AWS data center security, see the AWS Data Centers page at https://aws.amazon.com/compliance/data-center/.
 - 
