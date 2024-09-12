@@ -154,3 +154,12 @@
 - Amazon Route 53 is a scalable, cloud Domain Name System (DNS) web service. It is designed to give you a reliable way to route end users to internet applications. Route 53 translates names (like www.example.com) into the numeric IP addresses (like 192.0.2.1) that computers use to connect to each other. 
 - AWS Direct Connect provides a way to establish a dedicated private network connection from your data center or office to AWS. Using AWS Direct Connect can reduce network costs and increase bandwidth throughput.
 - AWS Client VPN provides a secure private tunnel from your network or device to the AWS global network.
+
+## Security, Identity, and Compliance service category
+- ***AWS Security, Identity, and Compliance services include the services listed here and many others.*** 
+- AWS Identity and Access Management (IAM) gives you the ability to manage access to AWS services and resources securely. By using IAM, you can create and manage AWS users and groups. You can use IAM permissions to allow and deny user and group access to AWS resources.
+- AWS Organizations permits you to restrict what services and actions are allowed in your accounts.
+- Amazon Cognito gives you the ability to add user sign-up, sign-in, and access control to your web and mobile apps.
+- AWS Artifact provides on-demand access to AWS security and compliance reports and select online agreements. 
+- AWS Key Management Service (AWS KMS) provides the ability to create and manage keys. You can use AWS KMS to control the use of encryption across a wide range of AWS services and in your applications. 
+- AWS Shield is a managed distributed denial of service (DDoS) protection service that safeguards applications running on AWS.
