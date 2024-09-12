@@ -89,4 +89,10 @@
 
 - The foundation for the AWS infrastructure is the data centers.  A data center is a location where the actual physical data resides and data processing occurs. AWS data centers are built in clusters in various global Regions.
 - For more information about AWS data center security, see the AWS Data Centers page at https://aws.amazon.com/compliance/data-center/.
-- 
+
+## AWS Availability Zones
+- Each Availability Zone is made up of one or more data centers.
+- Availability Zones are designed for fault isolation.
+- Availability Zones are interconnectedwith other Availability Zones byusing high-speed private links.
+- You choose your Availability Zones.
+- AWS recommends replicating across Availability Zones for resilien
