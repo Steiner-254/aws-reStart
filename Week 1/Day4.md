@@ -179,4 +179,6 @@
 - AWS CloudTrail tracks user activity and API usage.
 
 ## AWS Shared Responsibility Model
-- 
+- ***You will learn how to do the following:***
+- Describe AWS Cloud security and the shared responsibility model.
+- Identify the security responsibilities of Amazon Web Services (AWS) compared with the security responsibilities of the customer.
