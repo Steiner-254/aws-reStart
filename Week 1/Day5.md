@@ -43,3 +43,13 @@
 ## Common use cases for Amazon S3
 - Storage for application assets•Static web hosting
 - Backup and disaster recovery (DR)•Staging area for big data
+
+## Amazon S3 pricing 
+- ***Pay for only what you use:***
+- GBs per month
+- Transfer out to other Regions
+- PUT, COPY, POST, LIST, and GET requests
+
+- ***You do not have to pay for the following:***
+- Transfer in to Amazon S3
+- Transfer out from Amazon S3 to Amazon CloudFront or Amazon EC2 in the same Region
