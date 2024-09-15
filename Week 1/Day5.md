@@ -82,3 +82,15 @@
 - ***You will learn how to do the following:***
 - Explain the features and uses of Amazon Elastic Compute Cloud (Amazon EC2).
 - Launch an EC2 instance.•Describe the pricing options for Amazon EC2
+
+- You will first get an overview of Compute services. Then, you will learn about Amazon Elastic Compute Cloud (or Amazon EC2).
+- Whether you want to build mobile apps or run massive clusters to sequence the human genome, building and running your business starts with compute. AWS has a broad catalog of Compute services. It offers everything from application services to flexible virtual servers and even serverless computing.
+- AWS offers several compute options to meet different needs. When you consider the service to use for a given type of workload, it is important that you understand the available compute options. As the diagram shows, the key runtime compute choices can be grouped into four categories of cloud computing models:
+
+>> Virtual machines (VMs)
+
+>> Containers
+
+>> Platform as a service (also known as PaaS)
+
+>> Serverless
