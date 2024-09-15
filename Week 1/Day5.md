@@ -63,3 +63,13 @@
 - Amount of storage
 - Requests
 - Data transfer
+
+## Key Takeaways
+- ***This module includes the following key takeaways:***
+- Amazon S3 is a fully managed cloud storage service.
+- You store data in Amazon S3 as an object inside a bucket.
+- You can store a virtually unlimited number of objects.
+- You pay for only what you use.•You can access Amazon S3 at any time from anywhere through a URL.
+
+- ***For more information about Amazon S3, see*** https://aws.amazon.com/s3/. 
+
