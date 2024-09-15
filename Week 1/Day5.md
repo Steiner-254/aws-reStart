@@ -53,3 +53,13 @@
 - ***You do not have to pay for the following:***
 - Transfer in to Amazon S3
 - Transfer out from Amazon S3 to Amazon CloudFront or Amazon EC2 in the same Region
+
+- With Amazon S3, specific costs might vary, depending on the Region and the specific requests that are made. You pay for only what you use, including GBs per month; transfer out of other Regions; and PUT, COPY, POST, LIST, and GET requests.
+- As a general rule, you pay for only transfers that cross the boundary of your Region. You don’t pay for transfers in to Amazon S3 or for transfers out from Amazon S3 to Amazon CloudFront edge locations in that same Region.
+
+## Amazon S3 cost estimation
+- ***To estimate Amazon S3 costs, consider the following factors:***
+- Storage class type 
+- Amount of storage
+- Requests
+- Data transfer
