@@ -33,3 +33,13 @@
 - Amazon S3 Glacier Deep Archive –Amazon S3 Glacier Deep Archive is the lowest-cost storage class for Amazon S3. It supports long-term retention and digital preservation for data that might be accessed once or twice in a year. It is designed for customers, particularly in highly regulated industries, such as financial services, healthcare, and public sectors. These customers typically retain datasets for 7–10 years (or more) to meet regulatory compliance requirements. Amazon S3 Glacier Deep Archive is a cost-effective and easy-to-manage alternative to magnetic tape systems, whether these tape systems are on-premises libraries or off-premises services. All objects that are stored in Amazon S3 Glacier Deep Archive are replicated and stored across at least three geographically dispersed Availability Zones. These objects can be restored within 12 hours.
 - ***For more information, see Amazon S3 storage classes at*** https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html
 
+- You can access Amazon S3 through theAWS Management Console, AWS Command Line Interface (AWS CLI), or AWS Software Development Kits (SDKs). 
+- Additionally, you can access the data in your bucket directly by using REST-based endpoints, which support Hypertext Transfer Protocol(HTTP) or Secure HTTP (HTTPS) access.
+
+## Amazon S3 is designed for seamless scaling.
+- Amazon S3 automatically manages the storage behind your bucket even when your data grows. Because of this system, you can get started immediately and have your data storage grow with your application needs. 
+- Amazon S3 also scales to handle a high volume of requests. You don’t need to provision the storage or throughput, and youare billed for only what you use.
+
+## Common use cases for Amazon S3
+- Storage for application assets•Static web hosting
+- Backup and disaster recovery (DR)•Staging area for big data
