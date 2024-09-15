@@ -73,3 +73,9 @@
 
 - ***For more information about Amazon S3, see*** https://aws.amazon.com/s3/. 
 
+
+# AWS S3 Demonstration
+- Video (watched)
+
+# AWS Elastic Compute
+- 
