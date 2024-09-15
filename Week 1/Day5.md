@@ -126,4 +126,16 @@
 - You can control traffic to and from instances.
 
 ## Launching an EC2 instance
-- 
+- This module walks through nine key decisions to make when you create an EC2 instance by using the AWS Management Console Launch Instance Wizard.
+
+## 1. Select an AMI
+- Choices to make by using theLaunch Instance Wizard:
+1. AMI
+2. Instance type
+3. Network settings
+4. IAM role
+5. User data
+6. Storage options
+7. Tags
+8. Security group
+9. Key pair
