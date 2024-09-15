@@ -78,4 +78,7 @@
 - Video (watched)
 
 # AWS Elastic Compute
-- 
+## Amazon Elastic Compute Cloud (Amazon EC2)
+- ***You will learn how to do the following:***
+- Explain the features and uses of Amazon Elastic Compute Cloud (Amazon EC2).
+- Launch an EC2 instance.•Describe the pricing options for Amazon EC2
