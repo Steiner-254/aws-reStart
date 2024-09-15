@@ -17,4 +17,9 @@
 - To upload your data, create a bucket in one of the AWS Regions, and then upload any number of objects to the bucket. You can virtually store as many objects as you want within a bucket, and you can write, read, and delete objects in your bucket. A single object can be up to 5 terabytes (TB) in size.
 - Amazon S3 is designed to scale seamlessly and provide over 11 9s (99.999999999 percent) of durability. The data that you store in Amazon S3 is not associated with any particular server, and you don’t need to manage any infrastructure yourself.
 
-## 
+## Amazon S3 features
+- You can virtually store as many objects as you want.
+- By default, your data is private, and you can optionally encrypt it.
+- Data is stored redundantly.
+- You can retrieve data anytime from anywhere over the internet.
+- Bucket names must be unique across all existing bucket names in Amazon S3.
