@@ -128,8 +128,7 @@
 ## Launching an EC2 instance
 - This module walks through nine key decisions to make when you create an EC2 instance by using the AWS Management Console Launch Instance Wizard.
 
-## 1. Select an AMI
-- Choices to make by using theLaunch Instance Wizard:
+## Choices to make by using theLaunch Instance Wizard:
 1. AMI
 2. Instance type
 3. Network settings
@@ -139,3 +138,6 @@
 7. Tags
 8. Security group
 9. Key pair
+
+## AWS EC2 Demonstration
+- Video (watched)
