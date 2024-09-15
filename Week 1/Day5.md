@@ -113,3 +113,17 @@
 ✓ File server
 ✓ Computing server
 ✓ Proxy server
+
+## Amazon EC2 overview
+- Amazon EC2 provides virtual machines—referred  to as EC2 instances—in the cloud.
+- With Amazon EC2, you have full control over the guest operating system (OS) —either Microsoft  Windows or Linux —on each instance.
+- You can launch instances of any size into an Availability Zone anywhere in the world.
+
+>> Launch instances  from Amazon Machine Images (AMIs).
+
+>> Launch instances  with a few clicks or a line of code, and they are ready in minutes.
+
+- You can control traffic to and from instances.
+
+## Launching an EC2 instance
+- 
