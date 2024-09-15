@@ -98,4 +98,18 @@
 - In the virtual machines category, AWS offers two core services. The first service is Amazon EC2. It provides secure and resizable virtual servers in the cloud. The second service is Amazon Lightsail. It provides virtual private servers to run workloads in a cost-effective way. 
 - In the containers category, AWS offers Amazon Elastic Container Service (Amazon ECS). With this service you can run Docker container applications on AWS.
 - The platform as a service (PaaS) category includes AWS Elastic Beanstalk. It is a solution that runs web applications and services that are developed in languages such as Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker.
-- 
+- The serverless category includes AWS Lambda, which is a serverless compute solution that runs Java, Go, PowerShell, Node.js, C#, Python, or Ruby code. This category also includes AWS Fargate, which provides a serverless compute platform for containers.
+- For specialized solutions, AWS Outposts provides a way to run AWS infrastructure and services on premises. AWS Batch is a service that runs batch jobs at any scale.
+
+## Amazon EC2
+- ***Example uses of EC2 instances:***
+✓ Application server
+✓ Web server
+✓ Database server
+✓ Game server
+✓ Mail server
+✓ Media server
+✓ Catalog server
+✓ File server
+✓ Computing server
+✓ Proxy server
