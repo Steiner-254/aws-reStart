@@ -78,4 +78,18 @@
 1. ***Command mode:*** Keystrokes issue commands to Vim.
 2. ***Insert mode:*** Keystrokes enter content into the text file.
 
-- 
+## The command mode
+  ***Keystroke***                ***Effect***
+- X                              Delete the character at the cursor
+- G                              Move the cursor to the bottom of the file
+- gg                             Move the cursor to the top ofthe file
+- 42G                            Move the cursor to line 42 of the file
+- /keyword                       Search the file for keyword
+- y                              Yank text (cut)
+- p                              Put text (paste)
+- i                              Move to insert mode
+
+## More Vim commands
+
+![More Vim Commands](vim.png)
+
