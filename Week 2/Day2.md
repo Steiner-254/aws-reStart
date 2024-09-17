@@ -1,4 +1,4 @@
-# Linux Command Line
+# Linux Command Line & Editing Files in Linux
 - ***Day2 Tuesday***
 
 ## Linux Fundamentals
@@ -60,3 +60,11 @@
 ## Other Useful Linux Commands
 - history
 - !xxx where `xxx` is a number for a command shown from the `history` command.
+
+
+# Editing Files in Linux
+- You will learn how to:•Explain basic commands of the Vim file editor•Explain basic commands of the GNU nano file editor•Explain basic commands of the gedit file editor
+
+## Vim text editor
+- This section introduces Vim and demonstrates some of the most widely used commands.
+- 
