@@ -93,3 +93,23 @@
 
 ![More Vim Commands](vim.png)
 
+## The insert mode
+- Enters text into body of file
+- Press `ESC` to exit insert mode and return to command mode
+- Enter `i`.
+- Enter your text.
+- Press `ESC` to exit the insert mode.
+
+## Quitting and saving
+![Quitting Saving](qs-vim.png)
+
+- ***To save the file and exit VIM:***
+- Enter `:`
+- Enter `wq`
+
+## Most common Vim commands
+![Common Vim Commands](qvc.png)
+
+## GNU nanotext editor
+- Common text editor in Linux
+- On a Debian or Ubuntu distribution, you can use the following command: `sudo apt-get install nano`
