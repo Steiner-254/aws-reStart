@@ -113,3 +113,6 @@
 ## GNU nanotext editor
 - Common text editor in Linux
 - On a Debian or Ubuntu distribution, you can use the following command: `sudo apt-get install nano`
+
+## Common nano commands
+![Common Nano Commands](qnano.png)
