@@ -25,3 +25,19 @@
 - ***The login workflow:***
 - The user name is checked against the ***/etc/passwd*** file.
 - The password is checked against the ***/etc/shadow*** file.
+
+## Linux command prompt
+- In this section, you’ll learn about the Linux command prompt.
+
+## Useful commands
+- whoami
+- id
+- hostname
+- uptime
+- date
+- cal
+- clear
+- echo
+- history
+- touch
+- cat
