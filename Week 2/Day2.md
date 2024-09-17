@@ -41,3 +41,22 @@
 - history
 - touch
 - cat
+
+## Additional commands
+- Standard streams are interconnected input and output communication channels. There are three input/output (I/O) streams. The standard streams are #0 Standard in (stdincommand), #1 Standard out (stdoutcommand), and #2 Standard error (stderrcommand). These communication channels handle incoming data or outgoing data from an input device or write data from applications. In modern operating systems, the standard error stream is redirected to log files.
+
+## Standard input –stdincommand
+- ***Standard input (stdin)***
+- Standard input is the device through which input is normally received: for example, a keyboard or a scanner.
+
+## Standard output –stdoutcommand
+- ***Standard output (stdout)***
+- Standard output is the device through which output is normally delivered: for example, the display monitor or a mobile device screen.
+
+## Standard error –stderrcommand
+- ***Standard error (stderr)***
+- Standard error is where a process can write error messages.
+
+## Other Useful Linux Commands
+- history
+- !xxx where `xxx` is a number for a command shown from the `history` command.
