@@ -12,3 +12,16 @@
 - ***The login prompt:***
 - Enter the user name and password (verified against what the system has on file).
 - Access is either granted or denied.
+
+- The user name is checked against the ***/etc/.psswdfile***, which is stored in the /etcdirectory. The file represents an individual user account and contains the following fields separated by colons (:).
+1. User name or login name
+2. Encrypted password
+3. User ID
+4. Group ID
+5. User description
+6. User’s home directory
+7. User’s login shell
+
+- ***The login workflow:***
+- The user name is checked against the ***/etc/passwd*** file.
+- The password is checked against the ***/etc/shadow*** file.
