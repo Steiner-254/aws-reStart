@@ -71,4 +71,11 @@
 ## Introduction to Vim
 - Vim is the default text editor for nearly all Linux distributions
 - Vim is an implementation of Vi. Depending on the Linux distribution, you might find Vi or Vim. A basicunderstanding if this tool is essential.
+
+## Vim modes
+- Vim has no menu buttons.
+- Vim uses two different modes that react differently to keystrokes.
+1. ***Command mode:*** Keystrokes issue commands to Vim.
+2. ***Insert mode:*** Keystrokes enter content into the text file.
+
 - 
