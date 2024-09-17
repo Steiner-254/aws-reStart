@@ -67,4 +67,8 @@
 
 ## Vim text editor
 - This section introduces Vim and demonstrates some of the most widely used commands.
+
+## Introduction to Vim
+- Vim is the default text editor for nearly all Linux distributions
+- Vim is an implementation of Vi. Depending on the Linux distribution, you might find Vi or Vim. A basicunderstanding if this tool is essential.
 - 
