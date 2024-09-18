@@ -129,3 +129,7 @@ passwd mmajor
 - Displays the first 10 lines of a file by default
 - Can display multiple files
 - When the headcommand is used in conjunction with the -noption, you can specify the number of lines to display.
+
+## `tail` command
+- Displays the last 10 lines of a file by default
+- Use the `tail` command with the `-n` option to specify the number of lines to display.
