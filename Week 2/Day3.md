@@ -118,3 +118,14 @@ passwd mmajor
 - Loads entire contents of files before displaying results
 - Can only scroll down
 - Can be used in conjunction with other commands: `cat file.txt | more`
+
+## `less` command
+- Displays file contents that don't fit on one screen
+- Can scroll up and down through content
+- Loads faster than morebecause lessdoesn’t load every page before it displays results
+- Used mostly for large files
+
+## `head` command
+- Displays the first 10 lines of a file by default
+- Can display multiple files
+- When the headcommand is used in conjunction with the -noption, you can specify the number of lines to display.
