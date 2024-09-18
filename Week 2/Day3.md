@@ -102,3 +102,19 @@ passwd mmajor
 - Navigate files and directories in Linux
 - Explain basic commands for managing files and directories
 - Compare absolute and relative paths
+
+## Navigating files and directories
+- Files allow for transparency. Drives, processes, and other elements are all represented as files. They can be browsed and accessed for information (for example, `ls /proc` gives you access to processes).
+- Files allow for interoperability. The same tools can be used for different types of files and can be combined (for example, `ls –l  | grep .txt`).
+
+## File system hierarchy standard (FHS)
+![alt text](Images/fs.png)
+
+## Commands for managing files and directories
+![alt text](Images/cs.png)
+
+## `more` command
+- Used to view file contents that don't fit on one screen.
+- Loads entire contents of files before displaying results
+- Can only scroll down
+- Can be used in conjunction with other commands: `cat file.txt | more`
