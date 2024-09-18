@@ -6,3 +6,7 @@
 - Manage group accounts
 - Elevate permissions by using the suand sudo commands
 - Describe AWS Identity and Access Management (IAM), the authentication service that Amazon Web Services (AWS) uses
+
+## Managing users
+- In this section, you will learnhow to create users and manage their passwords.
+- 
