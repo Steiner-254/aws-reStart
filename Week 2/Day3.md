@@ -98,4 +98,7 @@ passwd mmajor
 
 
 # Working with the Linux File System
-## 
+- ***You will learn how to:***
+- Navigate files and directories in Linux
+- Explain basic commands for managing files and directories
+- Compare absolute and relative paths
