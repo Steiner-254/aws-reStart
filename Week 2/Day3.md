@@ -32,3 +32,19 @@ tail –n 5 /etc/passwd
 ## Default user accounts
 - Default system accounts are created during the installation of Linux and services.
 - For example, a `root` user account is created during the installation, which allows administration of the system.
+
+- `head` is the complementary command of `tail`. It displays the first 10 lines of a file by default.
+- You can adjust the number of lines by using the `–n` option:
+- For example, the following command displays the first five lines: 
+
+```javascript
+head –n 5 /etc/passwd
+```
+
+## The `useradd` command
+- Creates the user account
+- Creates a home directory for the user in `/home`
+- Defines account defaults
+
+- `grep` is a command that searches for a string in a file.
+- 
