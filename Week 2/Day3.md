@@ -133,3 +133,22 @@ passwd mmajor
 ## `tail` command
 - Displays the last 10 lines of a file by default
 - Use the `tail` command with the `-n` option to specify the number of lines to display.
+
+## `cp` command
+- The `cp` command copies files and directories.
+- By default, the `cp` command overwrites existing files that have the same name. Example:
+
+```javascript
+cp <file-name> <destination>
+```
+
+- ***Other helpful commands:***
+
+```javascript
+rm
+move
+mkdir
+rmdir
+cd
+cd..
+```
