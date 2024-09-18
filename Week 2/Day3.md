@@ -30,4 +30,5 @@ tail –n 5 /etc/passwd
 - Linux stores the accounts in the `/etc/passwd` file.
 
 ## Default user accounts
-- 
+- Default system accounts are created during the installation of Linux and services.
+- For example, a `root` user account is created during the installation, which allows administration of the system.
