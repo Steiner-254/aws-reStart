@@ -1,4 +1,4 @@
-# Linux Users and Groups
+# Linux Users and Groups && Working with the Linux File System
 - ***Day 3 Wednesday***
 
 - ***You will learn how to:***
@@ -95,3 +95,7 @@ passwd mmajor
 
 ## A Snapshot Of AWS Management Console
 ![AWS Management Console](<Images/aws m console.png>)
+
+
+# Working with the Linux File System
+## 
