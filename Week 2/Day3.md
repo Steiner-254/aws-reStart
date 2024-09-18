@@ -47,4 +47,51 @@ head –n 5 /etc/passwd
 - Defines account defaults
 
 - `grep` is a command that searches for a string in a file.
-- 
+
+## The `usermod` command
+- This command is used to modify or change parts of or a whole existing user account. For example:
+
+```javascript
+usermod-c "Mary Major" mmajor
+```
+
+```javascript
+usermod-e 2025-01-01 mmajor
+```
+
+## The `userdel` command
+- Deletes a user account
+- Uses the `-r` option to also delete the user's home directory
+
+```javascript
+userdel -r jdoe
+```
+
+## The `passwd` command
+- User passwords are set with the `passwd` command
+- You must enter the password twice
+- Users can reset their own passwords, and the root user can reset any user password
+- No characters are echoed to the screen when the password is set.
+
+```javascript
+passwd mmajor
+```
+
+## Managing groups
+- A group is a set of accounts
+- The storage location for groups is the `/etc/group` file.
+
+## IAM
+## AWS Identity and Access Management (IAM)
+- `IAM` is an AWS service that is used to manage users and access to resources
+- You can create users, groups, and rolesand apply policiesto control access to resources
+- Access to IAM can be done through:
+
+>> AWS Management Console, a web interface via a browser
+
+>> AWS Command Line Interface (AWS CLI), a command line interface accessible by using a Linux shell or Windows command line
+
+>> AWS software development kits (SDKs) available for manylanguages, including Java, Python, JavaScript
+
+## A Snapshot Of AWS Management Console
+![AWS Management Console](<Images/aws m console.png>)
