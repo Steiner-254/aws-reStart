@@ -80,3 +80,7 @@ diff cities.txt cities2.txt
 
 ## Hard link
 - Points to the original file’s `inode`
+
+## Symbolic link
+- Points to an original file name or a `hard link`
+- Can point to a directory.
