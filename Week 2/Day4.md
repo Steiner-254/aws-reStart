@@ -101,4 +101,10 @@ diff cities.txt cities2.txt
 
 
 # Managing Linux File Permissions
-## 
+## Managing File Permissions
+- ***You will learn how to:***
+- View and change file permissions
+- Compare symbolic and absolute representations of file permissions
+
+## View and change file permissions
+- In this section, you will review how to view and change file permissions.
