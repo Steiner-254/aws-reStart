@@ -51,3 +51,11 @@ $ find /etc –iname "*.conf" –mtime 7
 - Can also search files in a directory
 - Provides options to control the search behavior and output
 - Syntax: `grep <text pattern or string> <where to search>`
+- The `grep` command searches a file or a directory for a particular text pattern or string and displays each occurrence. You can control the search behavior and output through various options.
+
+## Example: The `grep` command
+![alt text](<Images/grep cmd.png>)
+
+- In this example, the `grep` command matches the pattern text *fail* to the file contents.
+
+## 
