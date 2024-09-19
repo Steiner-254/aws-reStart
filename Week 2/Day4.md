@@ -69,3 +69,11 @@ $ find /etc –iname "*.conf" –mtime 7
 ```javascript
 diff cities.txt cities2.txt
 ```
+
+- The `diff` command compares two files line by line and displays the differences between the two files.
+
+## Links
+- Links are another way to refer to files.
+- ***Linux has two types of links:***
+- Hard link: Every file has an object that is called inode, which stores the file’s disk block locations and attributes. An inode is identified with a unique number. A hard link is a pointer to a file’s inode.
+- Symbolic link: Also known as a soft link or symlink, a symbolic link points to the original file name or a hard link.
