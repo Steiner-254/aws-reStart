@@ -45,3 +45,9 @@ $ find /home/student01 –user student01
 $ find /home/student01 –name *.jpg
 $ find /etc –iname "*.conf" –mtime 7
 ```
+
+## The `grep` command
+- Searches the contents of a file for a particular text pattern or string and displays each occurrence
+- Can also search files in a directory
+- Provides options to control the search behavior and output
+- Syntax: `grep <text pattern or string> <where to search>`
