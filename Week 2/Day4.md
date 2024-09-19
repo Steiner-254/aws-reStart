@@ -108,3 +108,10 @@ diff cities.txt cities2.txt
 
 ## View and change file permissions
 - In this section, you will review how to view and change file permissions.
+
+## Linux permission types
+- ***-rwxr-xr-x***
+- **Read (r):** This permission gives the user control to open and read a file.
+- **Write (w):** This permission gives the user control to change the file's content.
+- **Execute (x):** This permission gives the user the ability to run a program.
+- **File type:** The file type indicates the regular file in a directory.
