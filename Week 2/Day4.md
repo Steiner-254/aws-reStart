@@ -63,4 +63,9 @@ $ find /etc –iname "*.conf" –mtime 7
 
 - The `find` and `grep` commands have one main difference. The `find` command is used to locate filesthat match specified criteria, and the `grep` command is used to find a string in a file.
  
-## 
+## The `diff` command
+- Compares files line by line and displays the differences:
+
+```javascript
+diff cities.txt cities2.txt
+```
