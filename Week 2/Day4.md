@@ -84,3 +84,17 @@ diff cities.txt cities2.txt
 ## Symbolic link
 - Points to an original file name or a `hard link`
 - Can point to a directory.
+
+## Linux compression utilities
+## The `tar` command
+- Bundles a collection of files into a single archive file for easier copying or downloading
+- The command is also used to unbundle an archive file
+- ***The `tar` command is used for the following:***
+- File downloads
+- Large numbers of files to copy or move
+- Internet downloads, including software
+
+## Other Useful Commands:
+- zip
+- unzip
+- gzip
