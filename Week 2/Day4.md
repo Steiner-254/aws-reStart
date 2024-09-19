@@ -37,4 +37,11 @@
 - Write the location of searched files to an output file
 - Run command on searched files
 - Delete searched files
-- 
+- Examples of the `find` command
+
+```javascript
+$ find . –iname fileA.txt
+$ find /home/student01 –user student01
+$ find /home/student01 –name *.jpg
+$ find /etc –iname "*.conf" –mtime 7
+```
