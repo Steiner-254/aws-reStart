@@ -18,3 +18,7 @@
 - This command generates a checksum value for a file or stream of data.
 - It is used to see whether the file was corrupted during transfer.
 - The `cksum` command displays a cyclic redundancy check (CRC) value and the byte count for a file.
+
+## The `find` command
+- The `find` command searches a designated directory for files that match specific criteria
+- 
