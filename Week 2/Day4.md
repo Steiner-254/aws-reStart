@@ -21,4 +21,12 @@
 
 ## The `find` command
 - The `find` command searches a designated directory for files that match specific criteria
-- 
+- Can search by:
+
+>> Owner
+
+>> File name
+
+>> File size
+
+>> File modification date
