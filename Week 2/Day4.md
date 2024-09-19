@@ -77,3 +77,6 @@ diff cities.txt cities2.txt
 - ***Linux has two types of links:***
 - Hard link: Every file has an object that is called inode, which stores the file’s disk block locations and attributes. An inode is identified with a unique number. A hard link is a pointer to a file’s inode.
 - Symbolic link: Also known as a soft link or symlink, a symbolic link points to the original file name or a hard link.
+
+## Hard link
+- Points to the original file’s `inode`
