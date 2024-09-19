@@ -32,4 +32,9 @@
 >> File modification date
 
 - The `find` command searchesa directory and any of its subdirectories for files that match specific criteria. Search criteria can include file name, file type, file size,file owner, and file modification date,and you can search by logical expressions. When searching by name,wildcard characters can be used to match based on a character pattern. In addition, you can specify an action to take on matching files, such as delete or run a specified command on them. The `find` command can also be used with pipe (|) to input the findings into another program.
+
+## Actions that are used with the `find` command
+- Write the location of searched files to an output file
+- Run command on searched files
+- Delete searched files
 - 
