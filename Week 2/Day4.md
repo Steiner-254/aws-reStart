@@ -58,4 +58,9 @@ $ find /etc –iname "*.conf" –mtime 7
 
 - In this example, the `grep` command matches the pattern text *fail* to the file contents.
 
+## `find` and `grep` comparison
+![alt text](<Images/find vs grep.png>)
+
+- The `find` and `grep` commands have one main difference. The `find` command is used to locate filesthat match specified criteria, and the `grep` command is used to find a string in a file.
+ 
 ## 
