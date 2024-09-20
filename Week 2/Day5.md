@@ -31,4 +31,6 @@
 
 ![alt text](<Images/redirection ops.png>)
 
+- Alert! By default, the `>` output redirector will overwrite existing file content with no warning.
+
 ## 
