@@ -69,4 +69,8 @@ yum update ; yum install httpd ; systemctl start httpd &
 
 ![alt text](<Images/cut command.png>)
 
+## The `sort` command
+
+![alt text](<Images/sort command.png>)
+
 ## 
