@@ -14,6 +14,9 @@
 - In the Bash shell, a `space` is a delimiter(a separator)
 - Example: `usermod -c devuser jdoe`
 
->> This command adds the comment `devuser` on the jdoeline in the `/etc/passwd` file
+>> This command adds the comment `devuser` on the `jdoe` line in the `/etc/passwd` file
 
 >> The space separates the two arguments that are passed to the command `usermod`
+
+- To force Bash to recognize the space inside an argument, a value is enclosed in quotation marks (" ")
+- Example: `usermod -c "This is a dev user" jdoe`
