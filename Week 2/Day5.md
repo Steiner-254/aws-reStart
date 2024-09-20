@@ -80,3 +80,7 @@ yum update ; yum install httpd ; systemctl start httpd &
 
 
 # Managing Linux Processes
+- ***You will learn how to:***
+- Define a process in Linux
+- Describe basic commands for process management
+- Compare the atand croncommands for job scheduling
