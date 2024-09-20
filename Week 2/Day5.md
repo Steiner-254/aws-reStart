@@ -84,3 +84,9 @@ yum update ; yum install httpd ; systemctl start httpd &
 - Define a process in Linux
 - Describe basic commands for process management
 - Compare the atand croncommands for job scheduling
+
+## What is a process?
+- A program is a series of instructions given to a computer that tells which actions the computer should take.
+- Programs are usually one of two kinds:
+1. System programs
+2. Application programs
