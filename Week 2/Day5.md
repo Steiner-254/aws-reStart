@@ -22,6 +22,9 @@
 - Example: `usermod -c "This is a dev user" jdoe`
 
 ## Bash metacharacters
+
 ![alt text](<Images/bash metaxtcs.png>)
+
+- Bash metacharacters are special characters that have a meaning to the shell and that users can use to work faster and more powerful interaction with Bash. They are especially useful when writing scripts.
 
 ## 
