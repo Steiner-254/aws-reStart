@@ -90,3 +90,11 @@ yum update ; yum install httpd ; systemctl start httpd &
 - Programs are usually one of two kinds:
 1. System programs
 2. Application programs
+
+- How a program is found:
+
+```javascript
+echo $PATH
+```
+
+- A `process` is a running program.
