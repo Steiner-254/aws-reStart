@@ -54,4 +54,13 @@
 
 ![alt text](Images/semicolon.png)
 
+- Chaining commands is similar to writing small scripts. 
+- Another example is the following:
+
+```javascript
+yum update ; yum install httpd ; systemctl start httpd &  
+```
+
+- This command updates packages on the system, installs an Apache HTTP server, and starts it.
+
 ## 
