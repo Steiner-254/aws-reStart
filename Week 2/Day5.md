@@ -20,3 +20,8 @@
 
 - To force Bash to recognize the space inside an argument, a value is enclosed in quotation marks (" ")
 - Example: `usermod -c "This is a dev user" jdoe`
+
+## Bash metacharacters
+![alt text](<Images/bash metaxtcs.png>)
+
+## 
