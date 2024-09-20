@@ -1,4 +1,5 @@
-# Working with Linux Commands
+# Working with Linux Commands & Managing Linux Processes
+
 - ***Day 5 Friday***
 
 - ***You will learn how to:***
@@ -77,3 +78,5 @@ yum update ; yum install httpd ; systemctl start httpd &
 
 ![alt text](<Images/awk cmd.png>)
 
+
+# Managing Linux Processes
