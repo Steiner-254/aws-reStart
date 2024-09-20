@@ -41,4 +41,8 @@
 
 ![alt text](Images/noclobber.png)
 
+## The `tee` command
+
+![alt text](Images/teecmd.png)
+
 ## 
