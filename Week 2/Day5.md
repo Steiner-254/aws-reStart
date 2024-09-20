@@ -65,4 +65,8 @@ yum update ; yum install httpd ; systemctl start httpd &
 - You can use &to run tasks in the background so that you can keep working on the shell.
 - Chaining and running tasks in the background can save you a lot of time.
 
+## The `cut` command
+
+![alt text](<Images/cut command.png>)
+
 ## 
