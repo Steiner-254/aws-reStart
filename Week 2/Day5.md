@@ -62,5 +62,7 @@ yum update ; yum install httpd ; systemctl start httpd &
 ```
 
 - This command updates packages on the system, installs an Apache HTTP server, and starts it.
+- You can use &to run tasks in the background so that you can keep working on the shell.
+- Chaining and running tasks in the background can save you a lot of time.
 
 ## 
