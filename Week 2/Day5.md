@@ -45,4 +45,13 @@
 
 ![alt text](Images/teecmd.png)
 
+## Command substitution, chaining, and filtering
+## Command substitution
+
+![alt text](<Images/subs command.png>)
+
+## Using the semicolon to chain commands
+
+![alt text](Images/semicolon.png)
+
 ## 
