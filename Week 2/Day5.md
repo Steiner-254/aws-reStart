@@ -33,4 +33,12 @@
 
 - Alert! By default, the `>` output redirector will overwrite existing file content with no warning.
 
+## How the redirectors `>` and `>>` are used
+
+![alt text](Images/redirects.png)
+
+## The `noclobber` variable
+
+![alt text](Images/noclobber.png)
+
 ## 
