@@ -73,4 +73,7 @@ yum update ; yum install httpd ; systemctl start httpd &
 
 ![alt text](<Images/sort command.png>)
 
-## 
+## The `awk` command
+
+![alt text](<Images/awk cmd.png>)
+
