@@ -97,4 +97,15 @@ yum update ; yum install httpd ; systemctl start httpd &
 echo $PATH
 ```
 
-- A `process` is a running program.
+- A `process` is a running program and is viewed using commands such  as:
+
+```javascript
+ps
+pstree
+```
+
+## States of a process
+
+![alt text](<Images/process state.png>)
+
+## 
