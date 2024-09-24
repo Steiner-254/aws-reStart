@@ -1,4 +1,4 @@
-# Bash Shell Scripting & Linux Software Management & Managing Linux Log Files
+# Bash Shell Scripting & Linux Software Management & Managing Linux Log Files & Introduction to networking
 - ***Day 2 Tuesday***
 
 # Bash Shell Scripting
@@ -222,4 +222,6 @@ fi
 ## Logging levels
 ![alt text](<Images/logging levels.png>)
 
+
+# Introduction to networking
 ## 
