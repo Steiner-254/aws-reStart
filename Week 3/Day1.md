@@ -192,4 +192,13 @@ nano ~/.bashrc
 ## Useful Commands
 ![alt text](Images/useful-commands.png)
 
-## 
+## Operators
+![alt text](Images/operators.png)
+
+## Arguments
+![alt text](Images/arguments.png)
+
+## Expressions
+![alt text](Images/expressions.png)
+
+##
