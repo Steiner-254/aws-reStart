@@ -45,4 +45,6 @@
 - **What is a shell?**
 - A shell accepts and interprets commands.
 - A shell is an environment in which commands, programs, and shell scripts are run.
-- There are many types of Linux shells available. Bash is one of them, and this section discusses it further.
+- There are many types of Linux shells available. `Bash` is one of them, and this section discusses it further.
+- Bash is the default shell in Linux.
+- It offers an efficient environment for interacting with the operating system and scripting.
