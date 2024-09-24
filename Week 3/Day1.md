@@ -159,3 +159,10 @@ nano ~/.bashrc
 1. Create the script using a text editor.
 2. Set the script permissions to `run`.
 3. Use `./` to run the script.
+
+## Amazon EC2 user data script
+- Amazon Elastic Compute Cloud (Amazon EC2) is a virtual compute service.
+- Shell scripts can run at creation time to install software on an EC2 instance.
+
+## Basic scripting syntax
+- 
