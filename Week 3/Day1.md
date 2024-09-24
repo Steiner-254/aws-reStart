@@ -143,3 +143,10 @@ nano ~/.bashrc
 >> Automation allows scripts to run more quickly than if they are run manually.
 
 >> Scripts are consistent due to automation removing the potential for manual errors. 
+
+
+- ***Common script tasks:***
+- Creating backup jobs
+- Archiving log files
+- Configuring systems and services
+- Simplifying repetitive task•Automating tasks
