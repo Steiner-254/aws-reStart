@@ -1,4 +1,4 @@
-# Bash Shell Scripting & Linux Software Management
+# Bash Shell Scripting & Linux Software Management & Managing Linux Log Files
 - ***Day 2 Tuesday***
 
 # Bash Shell Scripting
@@ -185,4 +185,26 @@ fi
 
 
 # Linux Software Management
-- 
+- You will learn to:
+
+>> Describe how package managers support software management
+
+## Managing software
+![alt text](Images/managing-software.png)
+
+## Package managers and packages
+![alt text](Images/pkg-managers.png)
+
+## Repositories
+![alt text](Images/repos.png)
+
+
+
+## Managing Linux Log Files
+- You will learn how to:
+
+>> Define log files
+
+>> Use commands to read different types of messages in a log file
+
+>> Recognize the benefits of log rotation
