@@ -74,4 +74,17 @@ restart_student=
 
 ![alt text](Images/syntax-rules.png)
 
-## 
+## Displaying shell variables
+- Display shell variables using the `echo` command:
+
+```shell
+echo $VARIABLE_NAME
+```
+
+OR
+
+```shell
+echo $(VARIABLE_NAME)
+```
+
+- 
