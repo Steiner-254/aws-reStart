@@ -131,6 +131,15 @@ nano ~/.bashrc
 
 >> Run a shell script
 
-## What is a script?
+## What is a script/scripts?
 - This section defines a script and covers common tasks that you can accomplish by using shell scripts.
-- 
+
+>> Scripts are text files of commands and related data.
+
+>> When the text file is processed, the commands are run.
+
+>> Scripts can be set as scheduled tasks by using `cron`.
+
+>> Automation allows scripts to run more quickly than if they are run manually.
+
+>> Scripts are consistent due to automation removing the potential for manual errors. 
