@@ -95,3 +95,7 @@ KEY=VALUE
 ```
 
 - In a shell, environment variables are the same as shell variables. Structurally, these variables are no different from each other. Both use the key-value pair, and they are separated by the equal (=) sign.
+
+## Understanding the Bash environment and `env` command
+## The `env` command
+- 
