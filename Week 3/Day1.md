@@ -98,4 +98,23 @@ KEY=VALUE
 
 ## Understanding the Bash environment and `env` command
 ## The `env` command
-- 
+- If you run the envcommand without any options, it will display the variables in your current environment. With options, you can use this command to view, set, or remove environment variables.
+
+## The `alias` command
+- By using aliases, you can define new commands by substitutinga long command with a short one.
+```shell
+alias alias_name='command'
+```
+
+- By using aliases,you can define new commands by substitutinga long command with a short one. Aliases can be set temporarily in the current shell, but it is more common to set them in the user's .bashrcfile so that they are permanent. In the example, llis often substituted or aliased to ls –l.
+
+## The `unalias` command
+- The `unalias` command removes the configured alias if it is not configured in the .bashrc file.
+```shell
+unalias [alias_name]
+```
+
+- Aliases can be added to the .bashrc file.
+```shell
+nano ~/.bashrc
+```
