@@ -130,3 +130,7 @@ nano ~/.bashrc
 >> Describe basic logical control statements that are frequently included in shell scripts
 
 >> Run a shell script
+
+## What is a script?
+- This section defines a script and covers common tasks that you can accomplish by using shell scripts.
+- 
