@@ -176,3 +176,15 @@ nano ~/.bashrc
 - The first line defines the interpreter to use (it gives the path and name of the interpreter).
 - Scripts must begin with the directive for which shell will run them.
 - The location and shell can be different.•Each shell has its own syntax, which tells the system what syntax to expect.
+
+## Script documentation
+- Some administrators create a script template, which contains all the relevant information and sections.
+- The template might include the following
+
+>> Title
+
+>> Purpose
+
+>> Author’s name and contact information
+
+>> Special instructions or examples
