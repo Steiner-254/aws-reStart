@@ -207,4 +207,29 @@ nano ~/.bashrc
 2. Assigns the result to the sumvariable.
 3. Echoes a message showing the value of the arguments and their computed sum.
 
-##
+## Conditional statements
+![alt text](Images/conditional-statements.png)
+
+## Logical control statements
+- The section focuses on basic logical control statements that are frequently included in shell scripts, such as if, if-else, if-elif-else, and test.
+
+## The `if` statement
+- If the first command succeeds with an exit code of 0 (success), then the subsequent command runs.
+- This is the simplest conditional statement.
+- An `if` statement must end with the `fi` keyword.
+- An `if` statement is written as follows: 
+```shell
+if <condition>
+then
+<command>
+fi
+```
+
+Or if writing everything in one line:
+
+```shell
+if <condition>; then <command>; fi
+```
+
+- Note that the semicolon (;) is required to separate multiple commands on the same line.
+- Indentation is used for better readability but is not required
