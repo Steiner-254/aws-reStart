@@ -10,3 +10,7 @@
 ## The `systemctl` command
 - The `systemctl` command has many subcommands, including `status, start, stop, restart, enable, and disable`.
 - Services provide functionality such as networking, remote administration, and security.
+
+## Managing services with the `systemctl` command
+- The `sudo systemctl start httpd` command starts the service.
+- The `sudo systemctl enable httpd` command activates the service.
