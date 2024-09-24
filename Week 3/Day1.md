@@ -121,4 +121,12 @@ nano ~/.bashrc
 
 
 # Bash Shell Scripting
-- 
+- You will learn how to:
+
+>> Describe common tasks that are accomplished through shell scripts
+
+>> Describe basic commands that are frequently included in shell scripts
+
+>> Describe basic logical control statements that are frequently included in shell scripts
+
+>> Run a shell script
