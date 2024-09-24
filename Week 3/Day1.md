@@ -155,3 +155,7 @@ nano ~/.bashrc
 ## Shell Scripts
 ![alt text](<Images/shell scripts.png>)
 
+- The process of creating a script follows these steps:
+1. Create the script using a text editor.
+2. Set the script permissions to `run`.
+3. Use `./` to run the script.
