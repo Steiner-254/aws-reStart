@@ -188,3 +188,8 @@ nano ~/.bashrc
 >> Author’s name and contact information
 
 >> Special instructions or examples
+
+## Useful Commands
+![alt text](Images/useful-commands.png)
+
+## 
