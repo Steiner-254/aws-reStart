@@ -87,4 +87,11 @@ OR
 echo $(VARIABLE_NAME)
 ```
 
-- 
+- To display the value of a variable, use the echo $VARIABLE_NAME. Also use the echocommand to view the output from environmentvariables or system-wide variables.
+
+## Environment variables
+```shell
+KEY=VALUE
+```
+
+- In a shell, environment variables are the same as shell variables. Structurally, these variables are no different from each other. Both use the key-value pair, and they are separated by the equal (=) sign.
