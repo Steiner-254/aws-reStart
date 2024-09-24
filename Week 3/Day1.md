@@ -149,4 +149,9 @@ nano ~/.bashrc
 - Creating backup jobs
 - Archiving log files
 - Configuring systems and services
-- Simplifying repetitive task•Automating tasks
+- Simplifying repetitive task
+- Automating tasks
+
+## Shell Scripts
+![alt text](<Images/shell scripts.png>)
+
