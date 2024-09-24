@@ -28,3 +28,21 @@
 
 
 # The Bash Shell
+- You will learn how to:
+
+>> Describe features of the Bash shell
+
+>> Explain how to display shell variables
+
+>> Explain how environment variables are used
+
+>> Describe the value of the alias command
+
+## The Bourne Again Shell: Bash shell
+- This section defines a Linux shell and introduces the Bash shell.
+
+## The Linux shell
+- **What is a shell?**
+- A shell accepts and interprets commands.
+- A shell is an environment in which commands, programs, and shell scripts are run.
+- There are many types of Linux shells available. Bash is one of them, and this section discusses it further.
