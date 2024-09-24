@@ -224,4 +224,10 @@ fi
 
 
 # Introduction to networking
-## 
+- ***You will learn how to:***
+
+>> Define basic networking terms
+
+>> Explain what the Internet is, its purpose, and its function for users.
+
+>> Identify the main components of a computer network
