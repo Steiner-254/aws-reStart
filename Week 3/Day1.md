@@ -48,3 +48,5 @@
 - There are many types of Linux shells available. `Bash` is one of them, and this section discusses it further.
 - Bash is the default shell in Linux.
 - It offers an efficient environment for interacting with the operating system and scripting.
+- `Bash` is a programming language for running commands. Bash is the default shell in Linux operating systems. It is widely used, so some familiarity with Bash is expected in many systems or development roles.
+- 
