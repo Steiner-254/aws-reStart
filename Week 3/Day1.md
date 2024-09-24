@@ -279,3 +279,13 @@ fi
 >> Or until a condition is met (untilstatement)
 
 >> Or while a condition is true (whilestatement)
+
+- Looping extends the power and complexity of scripts.
+
+## The `for` statement
+- Loops the command a specified number of times
+- Bracketed by doand done
+- To loop a command a specific number of times, use the for statement.
+
+## The `while` statement
+- 
