@@ -107,5 +107,3 @@ pstree
 ## States of a process
 
 ![alt text](<Images/process state.png>)
-
-## 
