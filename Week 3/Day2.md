@@ -1,4 +1,4 @@
-# Bash Shell Scripting
+# Bash Shell Scripting & Linux Software Management
 - ***Day 2 Tuesday***
 
 # Bash Shell Scripting
@@ -183,4 +183,6 @@ fi
 ## The `exit` command
 ![alt text](Images/exit.png)
 
->> Happy Scripting!
+
+# Linux Software Management
+- 
