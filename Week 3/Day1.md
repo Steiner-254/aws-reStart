@@ -233,3 +233,42 @@ if <condition>; then <command>; fi
 
 - Note that the semicolon (;) is required to separate multiple commands on the same line.
 - Indentation is used for better readability but is not required
+
+## The `if -else` statement
+- An if-else statement is written as follows: 
+```shell
+if <condition>
+then
+<command>
+else
+<other command>
+fi
+```
+
+## The `if -elif -else` statement
+- The example compares two numbers passed as parameters to the script:
+
+>> `gt` means greater than
+
+>> `lt` means lower than
+
+- An if-elif-else statement is written as follows: 
+```shell
+if <condition>
+then
+<command>
+elif <other condition>
+then
+<other command>
+else
+<default  command>
+fi
+```
+
+## The `test` command
+- Checks file types and compare values
+- Conditions are tested, and then the test exitswith a 0for true and a 1for false.
+- Syntax: test <EXPRESSION>
+
+## Loop statements
+- 
