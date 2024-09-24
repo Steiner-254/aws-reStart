@@ -271,4 +271,11 @@ fi
 - Syntax: test <EXPRESSION>
 
 ## Loop statements
-- 
+- Sections of a script can be configured to repeat themselves.
+- The loop can end:
+
+>> After a specific number of repeats (forstatement)
+
+>> Or until a condition is met (untilstatement)
+
+>> Or while a condition is true (whilestatement)
