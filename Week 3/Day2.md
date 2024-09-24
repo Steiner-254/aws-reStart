@@ -208,3 +208,18 @@ fi
 >> Use commands to read different types of messages in a log file
 
 >> Recognize the benefits of log rotation
+
+## What is logging?
+- Logs keep records of events on the system, which helps with auditing.
+- ***The following are types of logs***:
+- System logs (system startupinformationand system shutdowntimes)
+- Events logs(user login and logoutevents)
+- Applications logs (startup time, actions, and errors)
+
+## The importance of logging
+![alt text](Images/logging.png)
+
+## Logging levels
+![alt text](<Images/logging levels.png>)
+
+## 
