@@ -170,3 +170,9 @@ nano ~/.bashrc
 ## The `#` character
 - Bash ignores lines that are preceded with `#`.
 - Bash ignores lines that are preceded with `#` .
+
+## #!/bin/bash and #comments
+- `#!` is referred to as a shebang.
+- The first line defines the interpreter to use (it gives the path and name of the interpreter).
+- Scripts must begin with the directive for which shell will run them.
+- The location and shell can be different.•Each shell has its own syntax, which tells the system what syntax to expect.
