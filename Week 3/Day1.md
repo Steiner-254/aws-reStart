@@ -288,4 +288,5 @@ fi
 - To loop a command a specific number of times, use the for statement.
 
 ## The `while` statement
-- 
+- Continues running the script as long as the specified condition is true
+- Bracketed by `while` and `done`
