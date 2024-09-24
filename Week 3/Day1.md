@@ -49,4 +49,29 @@
 - Bash is the default shell in Linux.
 - It offers an efficient environment for interacting with the operating system and scripting.
 - `Bash` is a programming language for running commands. Bash is the default shell in Linux operating systems. It is widely used, so some familiarity with Bash is expected in many systems or development roles.
-- 
+
+## Shell variables
+- This section explains what Bash shell variables are, how to name them,what the rules are for writing them, and how to assign a value to them.
+
+```shell
+name=value
+```
+
+- In a shell, a variable is used to store values. A variable value can be a string, a number, or special characters; by default, variables are strings.
+
+## Syntax rules: Variable syntax structure
+
+```shell
+restart_student=
+```
+
+- By convention and as a good practice, the name of a variable that a user has created is in lowercase. Environment (system) variable names are capitalized. Also, there is no space before or after the equal sign.
+- There are rules for defining or creating variables in the shell.
+- When defining a variable, the variable name must be prefixed with the dollar ($) symbol.
+- The variable must contain no spaces or special characters within the variable name. A variable name can contain only letters (a to z or A to Z), numbers (0 to 9), or the underscore character ( _), andthey are usually capitalized (e.g. VARIABLE).
+
+## Syntax rules: Naming variables
+
+![alt text](Images/syntax-rules.png)
+
+## 
