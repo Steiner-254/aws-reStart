@@ -165,4 +165,8 @@ nano ~/.bashrc
 - Shell scripts can run at creation time to install software on an EC2 instance.
 
 ## Basic scripting syntax
-- 
+- This section introduces basic commands that are frequently included in shell scripts.
+
+## The `#` character
+- Bash ignores lines that are preceded with `#`.
+- Bash ignores lines that are preceded with `#` .
