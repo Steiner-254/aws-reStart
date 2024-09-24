@@ -201,4 +201,10 @@ nano ~/.bashrc
 ## Expressions
 ![alt text](Images/expressions.png)
 
+- Expressions are evaluated and usually assigned to a variable for reference later in the script. 
+- In this example, the script:
+1. Evaluates the sum of the first two arguments passed to the script.
+2. Assigns the result to the sumvariable.
+3. Echoes a message showing the value of the arguments and their computed sum.
+
 ##
