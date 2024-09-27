@@ -10,3 +10,7 @@
 - WAN (Wide Area Network)
 - LAN (Local Area Network)
 - MAN (Metropolian Area Network)
+
+## Network Topologies
+- Physical Topologies
+- Logical Topologies
