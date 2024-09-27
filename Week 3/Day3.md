@@ -1,4 +1,4 @@
-# Networking Concepts
+# Networking Concepts && Internet Protocol
 - ***Day 3 Wednesday***
 
 - ***You will learn how to:***
@@ -39,3 +39,7 @@
 1. IP - Internet Protocol
 2. TCP - Transmission Control Protocol
 3. UDP - User Datagram Protocol
+
+
+# Internet Protocol
+- 
