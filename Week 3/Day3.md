@@ -42,4 +42,8 @@
 
 
 # Internet Protocol
-- 
+- ***You will learn how to:***
+- Describe the Internet Protocol (IP) and its features
+- Explain the purpose of an IP address and its notation 
+- Distinguish between different classes of IP addresses
+- Convert an IP address to binary •Describe port numbering and its use
