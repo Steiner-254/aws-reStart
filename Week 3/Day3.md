@@ -5,3 +5,8 @@
 - Distinguish between different types of networks
 - Describe common network topologies and network management models
 - List different types of network protocols
+
+## Types of computer networks
+- WAN (Wide Area Network)
+- LAN (Local Area Network)
+- MAN (Metropolian Area Network)
