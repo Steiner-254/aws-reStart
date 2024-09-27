@@ -16,4 +16,8 @@
 - Logical Topologies
 
 ## Amazon Virtual Private Cloud (VPC)
+- What is a Amazon VPC?
+
+>> An Amazon VPC is a virtual network that allows you to launch AWS resources that you define. This VPC looks and works just like a normal network within a data center with the benefits of using AWS services for scalability.
+
 - 
