@@ -31,3 +31,5 @@
 
 >> Moving up one layer, there is a router in the LAN directing traffic. The table within the VPC that states the Destination and Target represents the routes that route traffic within and out of the VPC.
 
+## Network management
+- A network management model is a representation of how data is managed, and how applications are hosted in a network.
