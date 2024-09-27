@@ -1,4 +1,4 @@
-# Networking in the AWS Cloud
+# Networking in the AWS Cloud && IP Subnetting
 - ***Day 4 Thursday***
 
 ## Networking in the AWS Cloud
@@ -9,3 +9,7 @@
 
 ## Amazon VPC
 - ***Amazon VPC*** is a service that you can use to provision a logically isolated section of the AWS Cloud. This service is called a virtual private cloud, or Amazon VPC. With an Amazon VPC, you can launch your AWS resources in a virtual network that you define.
+
+
+# IP Subnetting
+- 
