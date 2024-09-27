@@ -20,4 +20,14 @@
 
 >> An Amazon VPC is a virtual network that allows you to launch AWS resources that you define. This VPC looks and works just like a normal network within a data center with the benefits of using AWS services for scalability.
 
-- 
+## LAN and AWS VPC
+![alt text](<Images/LAN vs AWS VPC.png>)
+
+- Above is an example of a LAN topology and an AWS VPC network. There are similarities between a LAN and an AWS VPC.
+
+>> Starting from the bottom of the LAN and center for the VPC, they both have nodes or instances.
+
+>> The next layer in the LAN is a switch or subnet, which is also depicted within the VPC as Public and Private subnets.
+
+>> Moving up one layer, there is a router in the LAN directing traffic. The table within the VPC that states the Destination and Target represents the routes that route traffic within and out of the VPC.
+
