@@ -33,3 +33,9 @@
 
 ## Network management
 - A network management model is a representation of how data is managed, and how applications are hosted in a network.
+
+## Networking Protocols
+## Examples of network protocols
+1. IP - Internet Protocol
+2. TCP - Transmission Control Protocol
+3. UDP - User Datagram Protocol
