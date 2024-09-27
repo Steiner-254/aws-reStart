@@ -13,4 +13,8 @@
 
 # IP Subnetting
 ## Introduction to IP Subnetting
-- 
+- ***You will learn how to:***
+- Define a subnet, its parts, and its purpose
+- Describe the purpose of IP subnetting
+- Use the Classless Inter-Domain Routing (CIDR) notation to specify subnet address ranges
+- Describe the use of subnet masks
