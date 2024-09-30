@@ -1,4 +1,4 @@
-# Additional Networking Protocols
+# Additional Networking Protocols && Additional Networking Technologies
 - ***Day 1 Monday***
 
 - You will learn how to:
@@ -24,4 +24,6 @@
 ## ICMP
 ![alt text](Images/icmp.png)
 
+
+# Additional Networking Technologies
 ## 
