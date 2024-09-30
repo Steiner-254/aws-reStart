@@ -26,4 +26,10 @@
 
 
 # Additional Networking Technologies
-## 
+- You will learn how to:
+
+>> List wireless technologies and their characteristics
+
+>> Identify the primary goal of the Internet of Things (IoT)
+
+>> Define bring your own device (BYOD) and mobile device management (MDM)
