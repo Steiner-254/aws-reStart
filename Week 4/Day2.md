@@ -7,4 +7,6 @@
 
 >> Identify the components that comprise a security strategy
 
->> List the types of security controls•Name the stages of the security lifecycle
+>> List the types of security controls
+
+>> Name the stages of the security lifecycle
