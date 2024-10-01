@@ -13,3 +13,4 @@
 
 ## What is security?
 - ***Security is the practice of protecting valuable assets.***
+- The primary goal of cybersecurity is to ensure the ***CIA*** Tragiad - `confidentiality`, `integrity`, and `availability` of digital information.
