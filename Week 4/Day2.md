@@ -10,3 +10,6 @@
 >> List the types of security controls
 
 >> Name the stages of the security lifecycle
+
+## What is security?
+- ***Security is the practice of protecting valuable assets.***
