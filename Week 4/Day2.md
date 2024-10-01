@@ -1,4 +1,4 @@
-# Introduction to Security
+# Introduction to Security && Security Lifecycle: Prevention
 - You will learn how to:
 
 >> Define key security terms
@@ -22,3 +22,17 @@
 ![alt text](<Images/Basic Security Terms.png>)
 
 - Acceptable Use Policy Example
+
+
+# Security Lifecycle: Prevention
+- You will learn how to:
+
+>> Describe the importance of prevention in the security lifecycle
+
+>> Describe security prevention tasks
+
+>> Use a layered model to build a security prevention strategy
+
+>> List different types of prevention measures
+
+## 
