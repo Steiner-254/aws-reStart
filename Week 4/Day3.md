@@ -36,3 +36,6 @@
 
 ## AWS security groups
 - In the AWS Cloud, a security group implements a firewall to protect EC2 instances.
+
+## Intrusion prevention system (IPS)
+- An IPS actively protects a network against threats.
