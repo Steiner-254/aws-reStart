@@ -15,3 +15,7 @@
 
 ## Network Mapping
 - Attackers can use it to find out which devices and hosts are present in the network.
+
+## What is network architecture hardening?
+- Network architecture hardening increases the security of a network through design improvements.
+- 
