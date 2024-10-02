@@ -57,3 +57,6 @@
 
 ## What is systems hardening?
 - Systems hardening is the action of securing computing systems to protect them from attacks.
+
+## Training and education
+- Training and education are the most effective defenses to harden systems against social engineering and phishing attacks.
