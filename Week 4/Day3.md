@@ -30,3 +30,6 @@
 >> Creating private subnets
 
 >> Using network access control lists (network ACLs)
+
+## Network firewall
+- A network firewall is a protection mechanism to filter incoming and outgoing traffic in a network.
