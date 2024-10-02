@@ -39,3 +39,6 @@
 
 ## Intrusion prevention system (IPS)
 - An IPS actively protects a network against threats.
+
+## Network access control list (network ACL)
+- A network ACL acts like a firewall. In the AWS Cloud, it is used to protect a subnet.
