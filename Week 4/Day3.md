@@ -60,3 +60,13 @@
 
 ## Training and education
 - Training and education are the most effective defenses to harden systems against social engineering and phishing attacks.
+
+## AWS Tools
+
+>> AWS Trusted Advisor
+
+>> Amazon GuardDuty
+
+>> AWS Shield
+
+>> AWS CloudTrail
