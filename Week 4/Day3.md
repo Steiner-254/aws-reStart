@@ -1,4 +1,4 @@
-#  Network Hardening
+#  Network Hardening && System Hardening
 - ***Day 3 Wednesday***
 
 - You will learn how to:
@@ -42,3 +42,15 @@
 
 ## Network access control list (network ACL)
 - A network ACL acts like a firewall. In the AWS Cloud, it is used to protect a subnet.
+
+
+# System Hardening
+- You will learn how to:
+
+>> Explain the principle of systems hardening and how it is applied to computer security
+
+>> Describe baselines and explain why they are important
+
+>> Describe how to harden different systems and the techniques that are used
+
+>> Identify the tools that are used to detect and show common security configuration problems
