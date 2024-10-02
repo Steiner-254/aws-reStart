@@ -54,3 +54,6 @@
 >> Describe how to harden different systems and the techniques that are used
 
 >> Identify the tools that are used to detect and show common security configuration problems
+
+## What is systems hardening?
+- Systems hardening is the action of securing computing systems to protect them from attacks.
