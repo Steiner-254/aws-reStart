@@ -18,4 +18,15 @@
 
 ## What is network architecture hardening?
 - Network architecture hardening increases the security of a network through design improvements.
-- 
+- Network architecture hardening is achieved through the following:
+1. Adding security components to the network
+
+>> Network firewalls
+
+>> Intrusion prevention systems (IPSs)
+
+2. Segmenting a network
+
+>> Creating private subnets
+
+>> Using network access control lists (network ACLs)
