@@ -26,3 +26,4 @@
 ## Cryptography
 - `Cryptography` is the discipline that embodies the principles and techniques for providing data security, including confidentiality and data integrity.
 - `Encryption` is the process of using a code, called a cipher, to turn readable data into unreadable data for another party. The cipher contains both algorithms to encrypt and to decrypt the data.
+- A `key` is a series of numbers and letters that the algorithm uses to encrypt and decrypt data. Only the owners of the keys can encrypt and decrypt data.
