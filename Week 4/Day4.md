@@ -33,4 +33,10 @@
 - With AWS Key Management Service (AWS KMS), you can create and manage cryptographic keys and control their use across a wide range of AWS services and in your applications.
 
 # Public Key Infrastructure
-- 
+- You will learn how to:
+
+>> Explain how the public key infrastructure (PKI) works and describe its major components
+
+>> Explain how certificates work and how they can be used to secure information
+
+>> Describe certification authorities and their common configurations
