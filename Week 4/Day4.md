@@ -1,4 +1,6 @@
 # Data Security
+- ***Day 4 Thursday***
+
 - You will learn how to:
 
 >> Explain encryption techniques that help protect data confidentiality
