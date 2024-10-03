@@ -21,3 +21,7 @@
 
 ## Confidentiality, integrity, and availability (CIA)
 - Information must be protected to ensure its confidentiality, integrity, and availability.
+
+## Cryptography and encryption
+## Cryptography
+- 
