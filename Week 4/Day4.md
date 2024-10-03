@@ -18,3 +18,6 @@
 >> `Response` – Describes what you do when you detect a security threat
 
 >> `Analysis` – Completes the cycle as you identify lessons learned and implement
+
+## Confidentiality, integrity, and availability (CIA)
+- Information must be protected to ensure its confidentiality, integrity, and availability.
