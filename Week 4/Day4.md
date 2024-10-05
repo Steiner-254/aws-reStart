@@ -40,3 +40,8 @@
 >> Explain how certificates work and how they can be used to secure information
 
 >> Describe certification authorities and their common configurations
+
+## PKI components
+![alt text](<Images/pki components.png>)
+
+## 
