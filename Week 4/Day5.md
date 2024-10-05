@@ -15,4 +15,4 @@
 ## Security lifecycle: Prevention –identity management
 ![alt text](<Images/sec lifecycle.png>)
 
-## 
+- **AWS SSO** - A cloud-based service that you can use to centrally manage SSO access to all Amazon Web Services (AWS) accounts, including user permissions and AWS Organizations
