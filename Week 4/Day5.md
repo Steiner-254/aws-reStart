@@ -37,3 +37,8 @@
 >> Create users, groups, androles
 
 >> Apply policies to the entities to control their access to AWS resources
+
+## IAM Features
+![alt text](<Images/IAM Features.png>)
+
+## 
