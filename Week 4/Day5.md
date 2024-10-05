@@ -12,4 +12,7 @@
 
 >> Identify tools and services used to support identity management.
 
+## Security lifecycle: Prevention –identity management
+![alt text](<Images/sec lifecycle.png>)
+
 ## 
