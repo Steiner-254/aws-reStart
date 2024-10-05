@@ -16,3 +16,4 @@
 ![alt text](<Images/sec lifecycle.png>)
 
 - **AWS SSO** - A cloud-based service that you can use to centrally manage SSO access to all Amazon Web Services (AWS) accounts, including user permissions and AWS Organizations
+- **Amazon Cognito** - It is an Amazon service that provides user management, authentication, and authorization for your web and mobile apps. 
