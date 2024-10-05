@@ -47,4 +47,7 @@
 ## Certificate authorities
 ![alt text](<Images/cert authorities.png>)
 
+## Certificate use cases
+![alt text](<Images/cert use cases.png>)
+
 ## 
