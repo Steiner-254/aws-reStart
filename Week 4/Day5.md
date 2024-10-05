@@ -30,4 +30,10 @@
 
 ## What is IAM?
 ## IAM
-- 
+- You can centrally manage authentication and access to Amazon Web Services (AWS) resources.
+
+>> Use as a feature of an AWS account at no charge
+
+>> Create users, groups, androles
+
+>> Apply policies to the entities to control their access to AWS resources
