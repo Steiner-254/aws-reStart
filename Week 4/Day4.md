@@ -44,4 +44,7 @@
 ## PKI components
 ![alt text](<Images/pki components.png>)
 
+## Certificate authorities
+![alt text](<Images/cert authorities.png>)
+
 ## 
