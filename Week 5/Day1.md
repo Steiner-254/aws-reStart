@@ -13,6 +13,8 @@
 ## Antivirus software
 - ***Antivirus software is a specialized program that prevents, detects, and removes malware.***
 
+## Intrusion Detection System (IDS)
+- ***An IDS detects security threats and generates alerts.***
 
 
 # AWS Config
