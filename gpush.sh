@@ -6,4 +6,4 @@ git commit -m "updates"
 git push
 
 ## Inside WSL Windows Terminal Run This Command:
-## ./gpush.sh
+## wsl ./gpush.sh
