@@ -76,4 +76,8 @@
 
 
 # Response
-- 
+- You will learn how to:
+
+>> List the typical steps in the incident investigation process
+
+>> Describe the purpose of a business continuity plan (BCP) and a disaster recovery plan (DRP)
