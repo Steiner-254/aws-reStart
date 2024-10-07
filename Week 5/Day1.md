@@ -20,7 +20,11 @@
 ## GuardDuty detection mechanism
 ![alt text](Images/guardduty.png)
 
-## 
+- `GuardDuty` detects unauthorized and unexpected activity in your AWS environment by analyzing and processing data from different AWS service logs. These logs include the following:
+
+>> AWS CloudTrail event logs
+
+>> Virtual private cloud (VPC) flow logs•Domain Name System (DNS) logs
 
 # AWS Config
 - You will learn how to:
