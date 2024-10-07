@@ -14,9 +14,14 @@
 ## AWS Config explained
 ![alt text](<Images/aws config explained.png>)
 
-- AWS Config is used for the following:
+- `AWS Config` is used for the following:
 
 1. Compliance auditing
 2. Security analysis
 3. Resource change tracking
 4. Troubleshooting
+
+## How AWS Config Works?
+![alt text](Images/image.png)
+
+## 
