@@ -2,7 +2,13 @@
 - ***Day 1 Monday***
 
 # Detection
-- 
+- You will learn how to:
+
+>> Describe how antivirus software is used to detect threats
+
+>> Define the benefits of an intrusion detection system (IDS)
+
+>> Identify how Amazon GuardDuty detects threats
 
 
 # AWS Config
