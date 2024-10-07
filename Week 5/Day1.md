@@ -24,4 +24,7 @@
 ## How AWS Config Works?
 ![alt text](Images/image.png)
 
+## AWS Config Rules
+![alt text](<Images/aws config rules.png>)
+
 ## 
