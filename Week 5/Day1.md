@@ -17,8 +17,10 @@
 - ***An IDS detects security threats and generates alerts.***
 
 ## Amazon GuardDuty
-- 
+## GuardDuty detection mechanism
+![alt text](Images/guardduty.png)
 
+## 
 
 # AWS Config
 - You will learn how to:
