@@ -32,7 +32,11 @@
 
 
 # AWS CloudTrail
-- 
+- You will learn how to:
+
+>> Describe the value of AWS CloudTrail
+
+>> Highlight the features of AWS CloudTrail
 
 
 
