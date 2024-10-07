@@ -11,4 +11,7 @@
 ## Security configuration challenge
 ![alt text](<Images/sec config challenge.png>)
 
+## AWS Config explained
+![alt text](<Images/aws config explained.png>)
+
 ## 
