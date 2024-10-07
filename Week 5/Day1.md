@@ -1,4 +1,4 @@
-# Detection && && AWS Config
+# Detection && AWS CloudTrail && AWS Config
 - ***Day 1 Monday***
 
 # Detection
@@ -29,7 +29,12 @@
 ## GuardDuty findings example
 ![alt text](<Images/guardduty example.png>)
 
-## 
+
+
+# AWS CloudTrail
+- 
+
+
 
 
 
