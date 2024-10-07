@@ -16,6 +16,9 @@
 ## Intrusion Detection System (IDS)
 - ***An IDS detects security threats and generates alerts.***
 
+## Amazon GuardDuty
+- 
+
 
 # AWS Config
 - You will learn how to:
