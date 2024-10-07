@@ -1,4 +1,4 @@
-# Detection && AWS CloudTrail && AWS Config
+# Detection && AWS CloudTrail && AWS Config && Response
 - ***Day 1 Monday***
 
 # Detection
@@ -45,7 +45,6 @@
 ## CloudTrail benefits
 ![alt text](<Images/cloudtrail benefits.png>)
 
-## 
 
 
 # AWS Config
@@ -74,4 +73,7 @@
 ## AWS Config Rules
 ![alt text](<Images/aws config rules.png>)
 
-## 
+
+
+# Response
+- 
