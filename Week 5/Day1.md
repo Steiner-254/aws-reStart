@@ -26,6 +26,13 @@
 
 >> Virtual private cloud (VPC) flow logs•Domain Name System (DNS) logs
 
+## GuardDuty findings example
+![alt text](<Images/guardduty example.png>)
+
+## 
+
+
+
 # AWS Config
 - You will learn how to:
 
