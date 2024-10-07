@@ -39,9 +39,13 @@
 >> Highlight the features of AWS CloudTrail
 
 ## Introduction to CloudTrail
-- 
+## What is CloudTrail?
+- CloudTrail provides auditing, security monitoring, and operational troubleshooting.
 
+## CloudTrail benefits
+![alt text](<Images/cloudtrail benefits.png>)
 
+## 
 
 
 # AWS Config
