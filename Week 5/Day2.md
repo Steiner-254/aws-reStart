@@ -38,5 +38,12 @@
 
 
 # AWS Trusted Advisor
+- You will learn how to:
 
-## 
+>> Describe AWS Trusted Advisor
+
+>> Explore the five categories of recommendations that Trusted Advisor produces
+
+>> List the security features of Trusted Advisor
+
+>> Interpret Trusted Advisor recommendations
