@@ -19,3 +19,6 @@
 
 ## What is analysis?
 - Reviewing what happened after a security breach
+
+## Root cause analysis (RCA)
+- RCA is used to identify the origin of security breaches.
