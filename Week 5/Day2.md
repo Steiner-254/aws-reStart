@@ -22,3 +22,8 @@
 
 ## Root cause analysis (RCA)
 - RCA is used to identify the origin of security breaches.
+
+## AWS monitoring services
+![alt text](<Images/image copy.png>)
+
+## 
