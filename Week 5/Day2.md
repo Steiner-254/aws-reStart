@@ -16,3 +16,6 @@
 2. `Detection` – Occurs when prevention fails.
 3. `Response` – Describes what you do when you detect a security threat.
 4. `Analysis` – Completes the cycle as you identify lessons learned and implement new measures to prevent the issue from occurring again in the future
+
+## What is analysis?
+- Reviewing what happened after a security breach
