@@ -26,4 +26,10 @@
 ## AWS monitoring services
 ![alt text](<Images/image copy.png>)
 
+## Monitoring as a service (MaaS)
+![alt text](<Images/image copy 2.png>)
+
+## Monitoring your data with Amazon Macie
+![alt text](<Images/image copy 3.png>)
+
 ## 
