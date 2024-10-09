@@ -1,4 +1,4 @@
-# Analysis
+# Analysis && AWS Trusted Advisor && 
 - ***Day 2 Tuesday***
 
 # Analysis
@@ -34,5 +34,9 @@
 
 ## AWS logging services
 ![alt text](<Images/image copy 4.png>)
+
+
+
+# AWS Trusted Advisor
 
 ## 
