@@ -32,4 +32,7 @@
 ## Monitoring your data with Amazon Macie
 ![alt text](<Images/image copy 3.png>)
 
+## AWS logging services
+![alt text](<Images/image copy 4.png>)
+
 ## 
