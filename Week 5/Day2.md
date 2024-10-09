@@ -11,6 +11,7 @@
 >> Describe how different types of testing, monitoring, and logging support security analysis
 
 - As a review, the phases of the security lifecycle consist of:
+
 1. `Prevention` – Is the first line of defense.
 2. `Detection` – Occurs when prevention fails.
 3. `Response` – Describes what you do when you detect a security threat.
