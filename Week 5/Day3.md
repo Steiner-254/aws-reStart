@@ -1,4 +1,4 @@
-# AWS Compliance Program && AWS Security Resources
+# AWS Compliance Program && AWS Security Resources && Introduction to Python Programming (Parts 1 - 4)
 - ***Day 3 Wednesday***
 
 - You will learn how to:
