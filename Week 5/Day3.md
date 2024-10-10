@@ -1,4 +1,4 @@
-# AWS Compliance Program && 
+# AWS Compliance Program && AWS Security Resources
 - ***Day 3 Wednesday***
 
 - You will learn how to:
@@ -21,4 +21,7 @@
 ## Compliance in the AWS Cloud security shared responsibility model
 ![alt text](<Images/image copy 14.png>)
 
-## 
+
+
+# AWS Security Resources
+- 
