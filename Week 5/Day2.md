@@ -60,4 +60,9 @@
 
 
 # Security Best Practices
+## Security Best Practices for Creating an AWS Account
+- You will learn how to:
+
+>> Use best practices when creating an Amazon Web Services (AWS) account
+
 - 
