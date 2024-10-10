@@ -24,4 +24,6 @@
 
 
 # AWS Security Resources
-- 
+- You will learn how to explore different types of security resources.
+
+## 
