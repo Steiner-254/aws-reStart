@@ -51,4 +51,4 @@
 ## Introduction to Trusted Advisor
 ![alt text](<Images/image copy 5.png>)
 
-## 
+## Trusted Advisor features
