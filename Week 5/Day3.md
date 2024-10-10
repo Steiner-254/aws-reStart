@@ -42,3 +42,8 @@
 >> Compare Python to shell scripting
 
 >> Recognize the purpose ofAWS Lambda
+
+## What is Python?
+- Python is a free, easy-to-learn, general-purpose programming language.
+
+## 
