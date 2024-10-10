@@ -1,4 +1,4 @@
-# Analysis && AWS Trusted Advisor && 
+# Analysis && AWS Trusted Advisor && Security Best Practices
 - ***Day 2 Tuesday***
 
 # Analysis
