@@ -68,4 +68,7 @@
 ## Securing your AWS account
 ![alt text](<Images/image copy 8.png>)
 
+## Understanding when to use the root directory
+![alt text](<Images/image copy 9.png>)
+
 ## 
