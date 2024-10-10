@@ -52,3 +52,6 @@
 ![alt text](<Images/image copy 5.png>)
 
 ## Trusted Advisor features
+![alt text](<Images/image copy 6.png>)
+
+## Trusted Advisor security checks
