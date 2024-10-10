@@ -46,4 +46,7 @@
 ## What is Python?
 - Python is a free, easy-to-learn, general-purpose programming language.
 
+## Using an IDE: Syntax highlighting
+![alt text](<Images/image copy 16.png>)
+
 ## 
