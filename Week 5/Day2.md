@@ -65,4 +65,7 @@
 
 >> Use best practices when creating an Amazon Web Services (AWS) account
 
-- 
+## Securing your AWS account
+![alt text](<Images/image copy 8.png>)
+
+## 
