@@ -31,4 +31,14 @@
 
 
 # Introduction to Python
-- 
+- You will learn how to:
+
+>> Explain what Python is
+
+>> List reasons for using Python
+
+>> List examples of programs that can be used to write Python code
+
+>> Compare Python to shell scripting
+
+>> Recognize the purpose ofAWS Lambda
