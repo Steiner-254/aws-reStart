@@ -57,4 +57,7 @@
 ## Trusted Advisor security checks
 ![alt text](<Images/image copy 7.png>)
 
-## 
+
+
+# Security Best Practices
+- 
