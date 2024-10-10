@@ -71,4 +71,7 @@
 ## Understanding when to use the root directory
 ![alt text](<Images/image copy 9.png>)
 
+## Security best practices for your AWS account: Stop using root user
+![alt text](<Images/image copy 10.png>)
+
 ## 
