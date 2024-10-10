@@ -73,5 +73,3 @@
 
 ## Security best practices for your AWS account: Stop using root user
 ![alt text](<Images/image copy 10.png>)
-
-## 
