@@ -1,4 +1,4 @@
-# AWS Compliance Program && AWS Security Resources && Introduction to Python Programming (Parts 1 - 4)
+# AWS Compliance Program && AWS Security Resources && Introduction to Python Programming (Parts 1 - 4) && Introduction to Python
 - ***Day 3 Wednesday***
 
 - You will learn how to:
@@ -29,4 +29,6 @@
 ## Software is written by using a computer language
 ![alt text](<Images/image copy 15.png>)
 
-## 
+
+# Introduction to Python
+- 
