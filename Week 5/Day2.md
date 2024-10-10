@@ -55,3 +55,6 @@
 ![alt text](<Images/image copy 6.png>)
 
 ## Trusted Advisor security checks
+![alt text](<Images/image copy 7.png>)
+
+## 
