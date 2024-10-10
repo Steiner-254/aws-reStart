@@ -47,3 +47,8 @@
 >> List the security features of Trusted Advisor
 
 >> Interpret Trusted Advisor recommendations
+
+## Introduction to Trusted Advisor
+![alt text](<Images/image copy 5.png>)
+
+## 
