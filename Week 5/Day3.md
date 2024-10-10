@@ -8,3 +8,8 @@
 >> Identify various regulatory compliance standards
 
 >> Describe the Amazon Web Services (AWS) compliance program
+
+## Goal of security compliance
+![alt text](<Images/image copy 11.png>)
+
+## 
