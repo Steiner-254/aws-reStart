@@ -26,4 +26,7 @@
 # AWS Security Resources
 - You will learn how to explore different types of security resources.
 
+## Software is written by using a computer language
+![alt text](<Images/image copy 15.png>)
+
 ## 
