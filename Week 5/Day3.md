@@ -49,4 +49,5 @@
 ## Using an IDE: Syntax highlighting
 ![alt text](<Images/image copy 16.png>)
 
-## 
+## AWS Cloud9 features
+![alt text](<Images/image copy 17.png>)
