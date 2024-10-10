@@ -12,4 +12,13 @@
 ## Goal of security compliance
 ![alt text](<Images/image copy 11.png>)
 
+## Compliance levels and noncompliance
+![alt text](<Images/image copy 12.png>)
+
+## National and international cybersecurity standards
+![alt text](<Images/image copy 13.png>)
+
+## Compliance in the AWS Cloud security shared responsibility model
+![alt text](<Images/image copy 14.png>)
+
 ## 
