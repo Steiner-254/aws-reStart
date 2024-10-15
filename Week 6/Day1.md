@@ -1,2 +1,2 @@
-# Day 1
+# Introduction To Programming
 - ***Day 1 Monday***
