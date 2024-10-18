@@ -25,4 +25,4 @@
 
 >> Import the JavaScript Object Notation (JSON) module and use JSON functions
 
->> Use pip to download and install third-party modules for Python
+>> Use `pip` to download and install third-party modules for Python
