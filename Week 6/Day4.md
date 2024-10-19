@@ -13,4 +13,4 @@
 
 
 # Debugging and Testing
-- 
+- You will learn how to:•Explain the purpose of debugging and testing code•Explain how debuggers enable developers to find bugs in their code•Recognize how to perform a static analysis on Python code•Recognize how to evaluate Python code for ways to implement dynamic analysis
