@@ -9,4 +9,4 @@
 
 >> Handle packages in Python code
 
->> Use os.system() and subprocess.run() to run bash commands in Python
+>> Use `os.system()` and `subprocess.run()` to run bash commands in Python
