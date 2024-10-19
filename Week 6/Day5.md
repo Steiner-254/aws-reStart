@@ -13,4 +13,10 @@
 
 
 # Configuration Management
-- 
+- You will learn how to:
+
+>> Define project infrastructure
+
+>> Explain why project infrastructure is important to the success of a project
+
+>> Define the purpose and function of software configuration management
