@@ -1,4 +1,4 @@
-# Python DevOps and Continuous Integration
+# Python DevOps and Continuous Integration && Configuration Management
 - ***Day 5 Friday***
 
 - You will learn how to:
@@ -10,3 +10,7 @@
 >> Identify the challenges that `DevOps` solves
 
 >> Describe the culture of `DevOps`
+
+
+# Configuration Management
+- 
