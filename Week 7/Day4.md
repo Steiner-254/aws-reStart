@@ -13,4 +13,10 @@
 
 
 # Performing a Conditional Search
-- 
+- You will learn how to do the following:
+
+>> Search by using one or more conditions.
+
+>> Search for a range of values and `NULL` values.
+
+>> Search data based on string patterns.
