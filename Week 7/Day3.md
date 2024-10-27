@@ -9,4 +9,10 @@
 
 
 # Inserting Data into a Database
-- 
+- You will learn how to do the following:
+
+>> Import a comma-separated values (.csv) file into a table.
+
+>> List common reasons for cleaning data before importing it into a database.
+
+>> Insert rows into an existing table.
