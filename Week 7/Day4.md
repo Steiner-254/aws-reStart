@@ -1,4 +1,4 @@
-# Selecting Data from a Database && Performing a Conditional Search
+# Selecting Data from a Database && Performing a Conditional Search && Working with Functions
 - ***Day 4 Thursday***
 
 - You will learn how to do the following:
@@ -20,3 +20,6 @@
 >> Search for a range of values and `NULL` values.
 
 >> Search data based on string patterns.
+
+# Working with Functions
+- 
