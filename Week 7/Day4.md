@@ -1,4 +1,4 @@
-# Selecting Data from a Database
+# Selecting Data from a Database && Performing a Conditional Search
 - ***Day 4 Thursday***
 
 - You will learn how to do the following:
@@ -10,3 +10,7 @@
 >> Demonstrate how to select data from certain columns or from all columns.
 
 >> Demonstrate how to use the `WHERE` clause to request that only certain rows from a table be returned.
+
+
+# Performing a Conditional Search
+- 
