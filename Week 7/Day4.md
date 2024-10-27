@@ -22,4 +22,12 @@
 >> Search data based on string patterns.
 
 # Working with Functions
-- 
+- You will learn how to do the following:
+
+>> Identify built-in functions.
+
+>> Examine the DATE functions that can be used in calculations.
+
+>> Calculate data by using aggregate functions.
+
+>> Manipulate string values.
