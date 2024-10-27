@@ -13,4 +13,8 @@
 
 
 # Data Interaction and Database Transaction
-- 
+- You will learn how to do the following:
+
+>> List different ways to interact with relational databases.
+
+>> Define the characteristics of a transaction.
