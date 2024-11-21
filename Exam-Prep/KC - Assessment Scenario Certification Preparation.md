@@ -35,3 +35,26 @@ Proximity can be important for reducing latency or improving service delivery, b
 >> Amazon CloudFront
 
 >> Amazon Route 53
+
+- Justifications:
+
+>> AWS Identity and Access Management (IAM)
+
+Why it’s correct:
+IAM is a global service. Its configuration and management are not tied to a specific region. IAM policies, roles, and users can be accessed and used across all regions.
+
+>> Amazon CloudFront
+
+Why it’s correct:
+CloudFront is a global content delivery network (CDN) service. It distributes content across edge locations worldwide, not tied to any single region, making it a global service.
+
+>> Amazon Route 53
+
+Why it’s correct:
+Route 53 is a global DNS service. It manages domain names globally and routes traffic across multiple AWS regions and on-premises resources, making it inherently global.
+
+- N/B: Summary:
+The correct global services are IAM, CloudFront, and Route 53, as they operate across regions. The incorrect options (AMIs and EC2) are regional services and must be explicitly configured or replicated to support multi-region operations.
+
+
+3. 
