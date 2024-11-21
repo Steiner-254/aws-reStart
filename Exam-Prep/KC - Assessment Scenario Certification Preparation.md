@@ -58,3 +58,16 @@ The correct global services are IAM, CloudFront, and Route 53, as they operate a
 
 
 3. 
+![alt text](<Images/image copy 2.png>)
+
+- > Amazon CloudFront
+
+- Justification:
+- Why this is correct:
+Amazon CloudFront is a content delivery network (CDN) that caches static content like images at edge locations around the globe. When a user requests content, CloudFront serves it from the nearest edge location, reducing latency and improving download speeds for global customers.
+
+- N/B: Summary:
+- The correct service for reducing latency in this scenario is Amazon CloudFront, as it provides efficient global caching and delivery for static content like images. The other options focus on storage and compute rather than optimizing content delivery to a global audience.
+
+
+4. 
