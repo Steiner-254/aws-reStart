@@ -71,3 +71,15 @@ Amazon CloudFront is a content delivery network (CDN) that caches static content
 
 
 4. 
+![alt text](<Images/image copy 3.png>)
+
+- > Correct Answer:
+
+- Amazon Simple Storage Service (Amazon S3)
+- Justification:
+- Why this is correct:
+Amazon S3 is an ideal service for storing static assets like images due to its durability, scalability, and high availability. It allows administrators to easily update images monthly and serves as a backend storage solution that can integrate with Amazon CloudFront for global delivery. S3 is specifically designed for storing and retrieving objects, making it perfect for hosting website content.
+
+N/B: The images for the website should be stored in Amazon S3 because it is a scalable and efficient object storage solution. Other options, like EBS and Glacier, do not meet the requirements for website image hosting, and CloudFront, while useful, is not a storage solution but a delivery mechanism.
+
+5. 
