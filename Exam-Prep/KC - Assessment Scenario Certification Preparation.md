@@ -149,3 +149,16 @@ Why it’s correct:
 User data scripts run during the initial boot cycle of the instance, specifically during the initialization phase. These scripts can configure software, install updates, or perform other tasks after the instance is started.
 
 10. 
+![alt text](<Images/image copy 9.png>)
+
+Correct Answer:
+On-Demand
+
+Justification:
+On-Demand Instances
+Why it’s correct:
+On-Demand instances allow you to pay for compute capacity by the hour or second without any long-term commitment. This is ideal for someone new to AWS who needs flexibility while learning the platform and understanding their instance requirements.
+It is a cost-effective choice for unpredictable workloads or temporary projects, as no upfront payment is needed.
+
+
+11. 
