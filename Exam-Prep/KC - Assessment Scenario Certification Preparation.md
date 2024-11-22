@@ -176,3 +176,14 @@ Start the instance
 After stopping the instance, starting it again ensures the instance is provisioned on new hardware, as stopping releases its prior hardware.
 
 12. 
+![alt text](<Images/image copy 11.png>)
+
+Correct Answer:
+WebSockets
+
+Justification:
+WebSockets is the ideal solution for real-time communication between the client and server, as it provides full-duplex communication. This allows for continuous data flow, which means the warehouse system can notify customers immediately when their orders are placed or when the status changes without the customer having to make repeated requests (polling). This is essential for quick notifications and tracking, especially when meeting a 48-hour delivery
+
+N/B: WebSockets provides real-time bidirectional communication, making it the best choice for delivering timely order updates and notifications in the warehouse system.
+
+13. 
