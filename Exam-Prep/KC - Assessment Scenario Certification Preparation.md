@@ -187,3 +187,13 @@ WebSockets is the ideal solution for real-time communication between the client 
 N/B: WebSockets provides real-time bidirectional communication, making it the best choice for delivering timely order updates and notifications in the warehouse system.
 
 13. 
+![alt text](<Images/image copy 12.png>)
+
+Correct Answer:
+Active-passive failover
+
+Justification:
+Active-passive failover is the most appropriate configuration for ensuring high availability while meeting compliance requirements. In this setup, one instance is actively serving traffic (the "active" instance), and another instance is on standby (the "passive" instance). If the active instance fails or becomes unhealthy, traffic is routed to the passive instance, ensuring minimal downtime and availability.
+This configuration is a good fit for a warehouse system where high availability and compliance with service-level agreements (such as the 48-hour delivery guarantee) are important.
+
+14. 
