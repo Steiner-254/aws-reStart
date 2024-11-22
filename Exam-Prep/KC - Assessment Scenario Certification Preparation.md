@@ -189,7 +189,7 @@ N/B: WebSockets provides real-time bidirectional communication, making it the be
 13. 
 ![alt text](<Images/image copy 12.png>)
 
-Correct Answer:
+- > Correct Answer:
 Active-passive failover
 
 Justification:
