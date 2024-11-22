@@ -162,3 +162,17 @@ It is a cost-effective choice for unpredictable workloads or temporary projects,
 
 
 11. 
+![alt text](<Images/image copy 10.png>)
+
+Correct Answer:
+Stop the instance
+Start the instance
+Justification:
+Stop the instance
+
+Stopping the instance releases the underlying hardware associated with it. When the instance is started again, AWS assigns new hardware if the original hardware is unavailable or unsuitable.
+Start the instance
+
+After stopping the instance, starting it again ensures the instance is provisioned on new hardware, as stopping releases its prior hardware.
+
+12. 
