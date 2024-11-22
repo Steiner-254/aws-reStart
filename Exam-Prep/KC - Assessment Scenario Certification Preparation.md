@@ -95,3 +95,14 @@ The Table output format in AWS CLI provides a clean, structured, and visually ap
 N/B: The Table format is the best choice for presenting AWS CLI results to customers because it prioritizes readability and structure. JSON and Text are better suited for technical tasks, while "Command" is invalid.
 
 6. 
+![alt text](<Images/image copy 5.png>)
+
+- > Correct Answer:
+- **--dry-run**
+
+- Justification:
+- --dry-run is used to simulate the execution of an AWS CLI command without actually performing the action. This checks for required permissions and ensures that the user has the necessary access to carry out the operation. If permissions are missing, the CLI returns an error, making it a critical tool for permission verification.
+
+N/B: The --dry-run option is the correct choice because it provides a way to validate permissions before executing an AWS CLI command. The other options (--query, --output, --filter) deal with formatting or filtering data and are unrelated to permission checks.
+
+7. 
