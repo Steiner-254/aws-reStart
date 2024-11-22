@@ -106,3 +106,35 @@ N/B: The Table format is the best choice for presenting AWS CLI results to custo
 N/B: The --dry-run option is the correct choice because it provides a way to validate permissions before executing an AWS CLI command. The other options (--query, --output, --filter) deal with formatting or filtering data and are unrelated to permission checks.
 
 7. 
+![alt text](<Images/image copy 6.png>)
+
+- > Correct Answers:
+
+>> Amazon Simple Notification Service (Amazon SNS)
+
+>> AWS Lambda
+
+- Justification:
+
+- **Amazon Simple Notification Service (SNS)**
+- Why it’s correct:
+SNS is a fully managed messaging service that can send notifications to multiple recipients via various protocols (e.g., SMS, email, push notifications). It is highly suitable for sending food delivery notifications to both customers and restaurants.
+
+- **AWS Lambda**
+- Why it’s correct:
+Lambda is a serverless compute service that can execute code in response to triggers (e.g., delivery completion event). It can integrate with SNS to initiate notifications based on the application's logic.
+
+N/B: The correct services for enabling food delivery notifications are Amazon SNS for sending notifications and AWS Lambda for executing the logic to trigger those notifications.
+
+8. 
+![alt text](<Images/image copy 7.png>)
+
+Correct Answer:
+169.254.169.254
+
+Justification:
+169.254.169.254
+Why it’s correct:
+This is the dedicated IP address for the EC2 metadata service in AWS. Applications running on EC2 instances can use this IP to query metadata and user data without requiring an internet connection.
+
+9. 
