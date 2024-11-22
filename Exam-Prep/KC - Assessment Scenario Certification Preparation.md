@@ -83,3 +83,15 @@ Amazon S3 is an ideal service for storing static assets like images due to its d
 N/B: The images for the website should be stored in Amazon S3 because it is a scalable and efficient object storage solution. Other options, like EBS and Glacier, do not meet the requirements for website image hosting, and CloudFront, while useful, is not a storage solution but a delivery mechanism.
 
 5. 
+![alt text](<Images/image copy 4.png>)
+
+- > Correct Answer:
+- **Table**
+
+- Justification:
+- Why it’s correct:
+The Table output format in AWS CLI provides a clean, structured, and visually appealing layout that is easy for humans to read and understand. This format is specifically designed for presenting data in a way that is digestible for non-technical users, making it ideal for customer-facing scenarios.
+
+N/B: The Table format is the best choice for presenting AWS CLI results to customers because it prioritizes readability and structure. JSON and Text are better suited for technical tasks, while "Command" is invalid.
+
+6. 
