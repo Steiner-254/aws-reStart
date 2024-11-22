@@ -138,3 +138,14 @@ Why it’s correct:
 This is the dedicated IP address for the EC2 metadata service in AWS. Applications running on EC2 instances can use this IP to query metadata and user data without requiring an internet connection.
 
 9. 
+![alt text](<Images/image copy 8.png>)
+
+Correct Answer:
+Initialization
+
+Justification:
+Initialization
+Why it’s correct:
+User data scripts run during the initial boot cycle of the instance, specifically during the initialization phase. These scripts can configure software, install updates, or perform other tasks after the instance is started.
+
+10. 
