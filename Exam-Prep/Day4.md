@@ -168,3 +168,63 @@ Amazon S3 is the lowest-cost, durable storage option for retaining database back
   Instance Store is temporary storage directly attached to an EC2 instance and does not provide durability for long-term backup storage. It's not suitable for retaining database backups.
 
 
+Which AWS services are defined as global instead of regional? (Choose two.)
+(1 Point)
+
+Please select 2 options.
+
+A. Amazon Route 53
+
+B. Amazon EC2
+
+C. Amazon S3
+
+D. Amazon CloudFront
+
+E. Amazon DynamoDB
+
+### **Correct Answers: A. Amazon Route 53 and D. Amazon CloudFront**
+
+- **A. Amazon Route 53:**  
+  **Amazon Route 53** is a global service used for domain name system (DNS) management. It provides global DNS resolution, allowing you to route traffic based on latency, geo-location, or other routing policies across multiple AWS regions.
+
+- **D. Amazon CloudFront:**  
+  **Amazon CloudFront** is a global content delivery network (CDN) service that caches content at edge locations worldwide to reduce latency and improve performance for users across the globe.
+
+### **Non-Answers:**
+- **B. Amazon EC2:**  
+  **Amazon EC2** is a regional service, meaning instances are launched within specific AWS regions.
+
+- **C. Amazon S3:**  
+  **Amazon S3** is a regional service, although it allows for global access. Data is stored in specific regions, and it is important to choose the correct region when creating S3 buckets.
+
+- **E. Amazon DynamoDB:**  
+  **Amazon DynamoDB** is a regional NoSQL database service, though it offers global tables for multi-region replication. The service itself is still considered regional.
+
+
+Which service provides a hybrid storage service that enables on-premises applications to seamlessly use cloud storage?
+(1 Point)
+
+
+A. Amazon Glacier
+
+B. AWS Snowball
+
+C. AWS Storage Gateway
+
+D. Amazon Elastic Block Storage (Amazon EBS)
+
+### **Correct Answer: C. AWS Storage Gateway**  
+**AWS Storage Gateway** is a hybrid cloud storage service that enables on-premises applications to seamlessly use cloud storage. It allows for the integration of on-premises data with AWS cloud storage services like Amazon S3, Amazon EBS, and Amazon Glacier, enabling organizations to extend their storage infrastructure to the cloud.
+
+### **Non-Answers:**
+- **A. Amazon Glacier:**  
+  **Amazon Glacier** is a low-cost archival storage service designed for long-term data storage, not for hybrid cloud storage or integrating on-premises applications with the cloud.
+
+- **B. AWS Snowball:**  
+  **AWS Snowball** is a physical data transfer device used for large-scale data migrations to AWS, but it is not a hybrid storage service for continuous integration of on-premises applications with cloud storage.
+
+- **D. Amazon Elastic Block Storage (Amazon EBS):**  
+  **Amazon EBS** provides block-level storage for EC2 instances but does not offer hybrid storage capabilities between on-premises and cloud environments.
+
+
