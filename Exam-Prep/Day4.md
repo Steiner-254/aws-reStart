@@ -113,3 +113,32 @@ An **Availability Zone** consists of one or more discrete data centers within a 
   Private networking refers to securely connecting resources within a network, but it is not a physical component of the AWS Global Infrastructure.
 
 
+Which of the following is a benefit of using the AWS Cloud?
+(1 Point)
+
+
+ 
+
+A. Permissive security removes the administrative burden.
+
+B. Ability to focus on revenue-generating activities.
+
+C. Control over cloud network hardware.
+
+D. Choice of specific cloud hardware vendors.
+
+- -> ### **Correct Answer: B. Ability to focus on revenue-generating activities**  
+Using the AWS Cloud allows businesses to offload infrastructure management and focus more on their core business activities, such as developing products, services, and revenue-generating tasks, rather than managing hardware and physical infrastructure.
+
+### **Non-Answers:**
+- **A. Permissive security removes the administrative burden:**  
+  Security in AWS is shared between the customer and AWS, and it’s not "permissive." Customers must still manage security configurations in many areas.
+
+- **C. Control over cloud network hardware:**  
+  AWS abstracts away the hardware management, meaning customers don't have control over the physical network hardware.
+
+- **D. Choice of specific cloud hardware vendors:**  
+  AWS uses its own infrastructure and hardware, so customers do not have the ability to choose specific hardware vendors.
+
+
+
