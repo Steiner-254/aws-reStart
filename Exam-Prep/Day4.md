@@ -87,3 +87,29 @@ Accessing forums, blogs, and whitepapers provided by AWS is free and offers valu
 
 
 
+Which of the following components of the AWS Global Infrastructure consists of one or more discrete data centers interconnected through low latency links?
+(1 Point)
+
+
+A. Availability Zone
+
+B. Edge location
+
+C. Region
+
+D. Private networking
+
+- -> ### **Correct Answer: A. Availability Zone**  
+An **Availability Zone** consists of one or more discrete data centers within a Region, interconnected through low-latency links. This design ensures high availability and fault tolerance.
+
+### **Non-Answers:**
+- **B. Edge location:**  
+  Edge locations are part of the AWS content delivery network (CDN) for caching and delivering content closer to users, not discrete data centers.
+
+- **C. Region:**  
+  A Region is a geographical area containing multiple Availability Zones but is not a single entity of interconnected data centers.
+
+- **D. Private networking:**  
+  Private networking refers to securely connecting resources within a network, but it is not a physical component of the AWS Global Infrastructure.
+
+
