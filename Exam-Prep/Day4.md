@@ -142,3 +142,29 @@ Using the AWS Cloud allows businesses to offload infrastructure management and f
 
 
 
+What is the lowest-cost, durable storage option for retaining database backups for immediate retrieval?
+(1 Point)
+
+
+A. Amazon S3
+
+B. Amazon Glacier
+
+C. Amazon EBS
+
+D. Amazon EC2 Instance Store
+
+### **Correct Answer: A. Amazon S3**  
+Amazon S3 is the lowest-cost, durable storage option for retaining database backups that need to be immediately accessible. It provides high durability and easy retrieval with fast access, making it ideal for backup storage.
+
+### **Non-Answers:**
+- **B. Amazon Glacier:**  
+  Amazon Glacier is a low-cost storage service for long-term archive data, but it is not designed for immediate retrieval as it involves retrieval times of several hours.
+
+- **C. Amazon EBS:**  
+  Amazon Elastic Block Store (EBS) provides block storage for EC2 instances but is generally more expensive than S3 for long-term storage and not specifically optimized for backup retention.
+
+- **D. Amazon EC2 Instance Store:**  
+  Instance Store is temporary storage directly attached to an EC2 instance and does not provide durability for long-term backup storage. It's not suitable for retaining database backups.
+
+
