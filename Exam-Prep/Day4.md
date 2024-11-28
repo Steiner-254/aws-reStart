@@ -58,3 +58,32 @@ E. AWS Classroom Training
 
 
 
+Which of the following security-related actions are available at no cost?
+(1 Point)
+
+
+ 
+
+A. Calling AWS Support
+
+B. Contacting AWS Professional Services to request a workshop
+
+C. Accessing forums, blogs, and whitepapers
+
+D. Attending AWS classes at a local university
+
+- -> ### **Correct Answer: C. Accessing forums, blogs, and whitepapers**  
+Accessing forums, blogs, and whitepapers provided by AWS is free and offers valuable security-related guidance and best practices without any cost.
+
+### **Non-Answers:**
+- **A. Calling AWS Support:**  
+  Access to AWS Support typically requires a support plan, and advanced tiers like Developer or Business Support involve additional costs.
+
+- **B. Contacting AWS Professional Services to request a workshop:**  
+  AWS Professional Services are paid engagements, including workshops.
+
+- **D. Attending AWS classes at a local university:**  
+  AWS classes offered at universities or other institutions often have associated tuition or fees.
+
+
+
