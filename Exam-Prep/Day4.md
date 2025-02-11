@@ -11,7 +11,7 @@ C. Round robin
 D. Auto Scaling
 
 - -> ### **Correct Answer: D. Auto Scaling**  
-Auto Scaling enables compute capacity to automatically adjust based on load changes. It ensures that resources are added during high demand and removed during low demand, optimizing performance and cost.
+- Auto Scaling enables compute capacity to automatically adjust based on load changes. It ensures that resources are added during high demand and removed during low demand, optimizing performance and cost.
 
 ### **Non-Answers:**
 - **A. Load balancing:**  
