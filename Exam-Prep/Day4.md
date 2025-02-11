@@ -228,3 +228,5 @@ D. Amazon Elastic Block Storage (Amazon EBS)
   **Amazon EBS** provides block-level storage for EC2 instances but does not offer hybrid storage capabilities between on-premises and cloud environments.
 
 
+
+- Amazon Storage Gateway - is a hybrid cloud storage service.
