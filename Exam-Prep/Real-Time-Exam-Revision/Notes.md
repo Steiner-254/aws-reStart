@@ -32,4 +32,5 @@
 
 - Amazon Inspector automatically discovers workloads, such as Amazon EC2 instances, containers, and Lambda functions, and scans them for software vulnerabilities and unintended network exposure.
 - An "EC2 Instance Usage Report" is a detailed breakdown of your Amazon Web Services (AWS) Elastic Compute Cloud (EC2) instance usage, displaying information like the number of hours each instance was running, the cost associated with that usage, and often allowing you to filter by specific time periods or instance types, essentially providing a comprehensive overview of your EC2 spending and resource utilization.
+- CloudTrail records important information about each action, including who made the request, the services used, the actions performed, parameters for the actions, and the response elements returned by the AWS service.
 - 
