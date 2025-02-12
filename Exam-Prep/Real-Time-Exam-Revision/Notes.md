@@ -25,4 +25,9 @@
 
 - **AWS Lambda** is an event-driven, serverless Function as a Service provided by Amazon as a part of Amazon Web Services. It is designed to enable developers to run code without provisioning or managing servers. It executes code in response to events and automatically manages the computing resources required by that code.
 - AWS Pricing Model - AWS priotizes Pay-As-You-Go pricing model.
+
+- Horizontal vs. Vertical scaling
+
+>> Horizontal scaling adds more computers to a system to increase capacity. Vertical scaling adds more resources to a single computer. 
+
 - 
