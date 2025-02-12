@@ -30,4 +30,5 @@
 
 >> Horizontal scaling adds more computers to a system to increase capacity. Vertical scaling adds more resources to a single computer. 
 
+- Amazon Inspector automatically discovers workloads, such as Amazon EC2 instances, containers, and Lambda functions, and scans them for software vulnerabilities and unintended network exposure.
 - 
