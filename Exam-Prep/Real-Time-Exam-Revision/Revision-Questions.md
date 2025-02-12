@@ -10,4 +10,21 @@ D. Adding more EC2 instances of the same size to handle an increase in traffic.
 
 - D
 
-3. 
+3. You have noticed that several critical Amazon EC2 instances have been terminated. Which of the following AWS services would help you determine who took this action?
+A. Amazon Inspector.
+B. AWS CloudTrail.
+C. AWS Trusted Advisor.
+D. EC2 Instance Usage Report.
+
+- B
+
+4. Which statement is true regarding the AWS Shared Responsibility Model?
+
+A. Responsibilities vary depending on the services used.
+B. Security of the IaaS services is the responsibility of AWS.
+C. Patching the guest OS is always the responsibility of AWS.
+D. Security of the managed services is the responsibility of the customer.
+
+- A
+
+5. 
