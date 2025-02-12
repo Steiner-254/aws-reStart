@@ -7,6 +7,8 @@
 - Amazon EC2 instance types (for example, Reserved, On-Demand, Spot)
 - AWS global infrastructure (for example, AWS Regions, Availability Zones)
 - AWS shared responsibility model
+- AWS Support plans
+- AWS Well-Architected Framework
 - 
 
 
