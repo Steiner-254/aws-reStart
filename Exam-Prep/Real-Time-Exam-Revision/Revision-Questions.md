@@ -147,4 +147,14 @@ D. Amazon EMR.
 
 - A
 
-19. 
+19. Which of the following is not a benefit of Amazon S3? (Choose TWO)
+
+A. Amazon S3 provides unlimited storage for any type of data.
+B. Amazon S3 can run any type of application or backend system.
+C. Amazon S3 stores any number of objects, but with object size limits.
+D. Amazon S3 can be scaled manually to store and retrieve any amount of data from anywhere.
+E. Amazon S3 provides 99.999999999% (11 9’s) of data durability.
+
+- B,D
+
+20. 
