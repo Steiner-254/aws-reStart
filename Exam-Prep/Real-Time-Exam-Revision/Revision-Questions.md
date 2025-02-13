@@ -95,4 +95,13 @@ D. By automatically provisioning the required AWS resources based on changes in 
 
 - D
 
-13. 
+13. A startup company is operating on limited funds and is extremely concerned about cost overruns. Which of the below options can be used to notify the company when their monthly AWS bill exceeds $2000? (Choose TWO)
+A. Setup a CloudWatch billing alarm that triggers an SNS notification when the threshold is exceeded.
+B. Configure the Amazon Simple Email Service to send billing alerts to their email address on a daily basis.
+C. Configure the AWS Budgets Service to alert the company when the threshold is exceeded.
+D. Configure AWS CloudTrail to automatically delete all AWS resources when the threshold is exceeded.
+E. Configure the Amazon Connect Service to alert the company when the threshold is exceeded.
+
+- A,C
+
+14. 
