@@ -48,4 +48,5 @@
 - **AWS Concierge team** is a group of senior customer service representatives who are assigned to accounts that subscribe to certain Amazon Web Services (AWS) support plans.
 - **AWS Trust & Safety team** is responsible for investigating and resolving abuse of AWS resources.
 - **Customers use Amazon CloudFront to stream video to viewers** across the globe using a wide variety of protocols that are layered on top of HTTP. The Amazon Content Delivery Network (CDN) can be used with AWS Elemental Media Services to implement two different types of video streaming.
+- **AWS Quick Starts** are automated reference architectures that streamline the deployment of key workloads on the AWS Cloud. They use infrastructure as code to provision production environments on AWS that may require hundreds of discreet procedures to deploy manually.
 - 
