@@ -34,4 +34,5 @@
 - An "EC2 Instance Usage Report" is a detailed breakdown of your Amazon Web Services (AWS) Elastic Compute Cloud (EC2) instance usage, displaying information like the number of hours each instance was running, the cost associated with that usage, and often allowing you to filter by specific time periods or instance types, essentially providing a comprehensive overview of your EC2 spending and resource utilization.
 - CloudTrail records important information about each action, including who made the request, the services used, the actions performed, parameters for the actions, and the response elements returned by the AWS service.
 - AWS Trusted Advisor provides real-time guidance to help you provision your resources following AWS best practices.
+- ***AWS Snowball*** is a service that allows users to transfer large amounts of data to and from Amazon Web Services (AWS). It uses secure devices to help address challenges with large-scale data transfers. 
 - 
