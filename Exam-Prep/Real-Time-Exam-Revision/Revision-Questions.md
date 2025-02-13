@@ -104,4 +104,12 @@ E. Configure the Amazon Connect Service to alert the company when the threshold 
 
 - A,C
 
-14. 
+14. What does the "Principle of Least Privilege" refer to?
+A. You should grant your users only the permissions they need when they need them and nothing more.
+B. All IAM users should have at least the necessary permissions to access the core AWS services.
+C. All trusted IAM users should have access to any AWS service in the respective AWS account.
+D. IAM users should not be granted any permissions; to keep your account safe.
+
+- A
+
+15. 
