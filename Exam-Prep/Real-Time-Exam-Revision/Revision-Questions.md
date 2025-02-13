@@ -87,4 +87,12 @@ D. Allows tracking of any API call made to any AWS service.
 
 - B
 
-12. 
+12. One of the most important AWS best-practices to follow is the cloud architecture principle of elasticity. How does this principle improve your architecture’s design?
+A. By automatically scaling your on-premises resources based on changes in demand.
+B. By automatically scaling your AWS resources using an Elastic Load Balancer.
+C. By reducing interdependencies between application components wherever possible.
+D. By automatically provisioning the required AWS resources based on changes in demand.
+
+- D
+
+13. 
