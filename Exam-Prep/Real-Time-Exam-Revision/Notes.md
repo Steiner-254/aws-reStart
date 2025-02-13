@@ -35,4 +35,5 @@
 - CloudTrail records important information about each action, including who made the request, the services used, the actions performed, parameters for the actions, and the response elements returned by the AWS service.
 - AWS Trusted Advisor provides real-time guidance to help you provision your resources following AWS best practices.
 - ***AWS Snowball*** is a service that allows users to transfer large amounts of data to and from Amazon Web Services (AWS). It uses secure devices to help address challenges with large-scale data transfers. 
+- **AWS Health** provides ongoing visibility into your resource performance and the availability of your AWS services and accounts. You can use AWS Health events to learn how service and resource changes might affect your applications running on AWS.
 - 
