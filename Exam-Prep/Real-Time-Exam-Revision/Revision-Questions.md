@@ -55,4 +55,12 @@ E. Secure transfer of large amounts of data into and out of the AWS.
 
 - A,E 
 
-8. 
+8. An organization has a large number of technical employees who operate their AWS Cloud infrastructure. What does AWS provide to help organize them into teams and then assign the appropriate permissions for each team?
+A. IAM roles.
+B. IAM users.
+C. IAM user groups.
+D. AWS Organizations.
+
+- C
+
+9. 
