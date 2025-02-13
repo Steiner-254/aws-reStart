@@ -63,4 +63,12 @@ D. AWS Organizations.
 
 - C
 
-9. 
+9. A company has decided to migrate its Oracle database to AWS. Which AWS service can help achieve this without negatively impacting the functionality of the source database?
+A. AWS OpsWorks.
+B. AWS Database Migration Service.
+C. AWS Server Migration Service.
+D. AWS Application Discovery Service.
+
+- B
+
+10. 
