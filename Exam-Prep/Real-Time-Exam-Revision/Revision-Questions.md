@@ -130,4 +130,13 @@ E. Amazon Elastic Compute Cloud.
 
 - B,C
 
-17. 
+17. In order to implement best practices when dealing with a “Single Point of Failure,” you should attempt to build as much automation as possible in both detecting and reacting to failure. Which of the following AWS services would help? (Choose TWO)
+A. ELB.
+B. Auto Scaling.
+C. Amazon Athen.
+D. ECR.
+E. Amazon EC2.
+
+- A,B
+
+18. 
