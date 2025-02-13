@@ -157,4 +157,13 @@ E. Amazon S3 provides 99.999999999% (11 9’s) of data durability.
 
 - B,D
 
-20. 
+20. An organization has decided to purchase an Amazon EC2 Reserved Instance (RI) for three years in order to reduce costs. It is possible that the application workloads could change during the reservation period. What is the EC2 Reserved Instance (RI) type that will allow the company to exchange the purchased reserved instance for another reserved instance with higher computing power if they need to?
+
+A. Elastic RI.
+B. Premium RI.
+C. Standard RI.
+D. Convertible RI.
+
+- D
+
+21. 
