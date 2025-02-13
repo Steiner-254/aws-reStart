@@ -42,4 +42,5 @@
 - **AWS Consolidated billing** is a billing method that combines multiple invoices into one. It can help businesses and customers save time and money by simplifying the billing process. 
 - **Amazon Elastic Block Store (EBS)** is a block-level storage service that lets you create and attach storage volumes to Amazon EC2 instances.
 - **Amazon Connect** is an Amazon Web Services (AWS) public cloud customer contact center service. Amazon Connect enables customer service representatives to respond to phone calls or chat inquiries from end customers just as if the contact center infrastructure was set up and managed on premises.
+- **Amazon Route 53** is a highly available and scalable cloud domain name system (DNS) service. Enables to customize DNS routing policies to reduce latency.
 - 
