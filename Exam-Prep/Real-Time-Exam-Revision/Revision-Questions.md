@@ -71,4 +71,12 @@ D. AWS Application Discovery Service.
 
 - B
 
-10. 
+10. Adjusting compute capacity dynamically to reduce cost is an implementation of which AWS cloud best practice?
+A. Build security in every layer.
+B. Parallelize tasks.
+C. Implement elasticity.
+D. Adopt monolithic architecture.
+
+- C
+
+11. 
