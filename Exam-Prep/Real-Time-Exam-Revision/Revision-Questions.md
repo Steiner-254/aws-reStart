@@ -79,4 +79,12 @@ D. Adopt monolithic architecture.
 
 - C
 
-11. 
+11. What is the advantage of the AWS-recommended practice of "decoupling" applications?
+A. Allows treating an application as a single, cohesive unit.
+B. Reduces inter-dependencies so that failures do not impact other components of the application.
+C. Allows updates of any monolithic application quickly and easily.
+D. Allows tracking of any API call made to any AWS service.
+
+- B
+
+12. 
