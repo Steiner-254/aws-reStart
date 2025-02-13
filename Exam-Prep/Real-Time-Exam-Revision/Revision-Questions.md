@@ -45,4 +45,14 @@ D. Deploy the application across multiple VPC’s and subnets.
 
 - C 
 
-7. 
+7. What does AWS Snowball provide? (Choose TWO)
+
+A. Built-in computing capabilities that allow customers to process data locally.
+B. A catalog of third-party software solutions that customers need to build solutions and run their businesses.
+C. A hybrid cloud storage between on-premises environments and the AWS Cloud.
+D. An Exabyte-scale data transfer service that allows you to move extremely large amounts of data to AWS.
+E. Secure transfer of large amounts of data into and out of the AWS.
+
+- A,E 
+
+8. 
