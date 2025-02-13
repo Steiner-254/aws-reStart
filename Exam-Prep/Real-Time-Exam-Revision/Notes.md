@@ -45,4 +45,5 @@
 - **Amazon Route 53** is a highly available and scalable cloud domain name system (DNS) service. Enables to customize DNS routing policies to reduce latency.
 - **Amazon Aurora** is a global-scale relational database service built for the cloud with full MySQL and PostgreSQL compatibility.
 - **AWS Security team** is responsible for the security of all Amazon Web Services (AWS) services. They create and maintain security models, develop security tools, and respond to security incidents.
+- **AWS Concierge team** is a group of senior customer service representatives who are assigned to accounts that subscribe to certain Amazon Web Services (AWS) support plans.
 - 
