@@ -112,4 +112,12 @@ D. IAM users should not be granted any permissions; to keep your account safe.
 
 - A
 
-15. 
+15. The identification process of an online financial services company requires that new users must complete an online interview with their security team. The completed recorded interviews are only required in the event of a legal issue or a regulatory compliance breach. What is the most cost-effective service to store the recorded videos?
+A. S3 Intelligent-Tiering.
+B. AWS Marketplace.
+C. Amazon S3 Glacier Deep Archive.
+D. Amazon EBS.
+
+- C
+
+16. 
