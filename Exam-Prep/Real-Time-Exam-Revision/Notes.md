@@ -39,4 +39,5 @@
 - **AWS Support Concierge** Support Concierge provides account and billing analysis to help cut costs
 - **AWS OpsWorks** is a configuration management service that helps you automate the management of applications and servers in the AWS cloud. It uses automation platforms like Chef and Puppet to manage servers across Amazon EC2 instances.
 - **AWS decoupling** is the practice of breaking down integrated components in a system so they can operate independently. This architectural approach can improve flexibility, scalability, and resilience. 
+- **AWS Consolidated billing** is a billing method that combines multiple invoices into one. It can help businesses and customers save time and money by simplifying the billing process. 
 - 
