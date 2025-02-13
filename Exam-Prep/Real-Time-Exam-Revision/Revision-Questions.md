@@ -120,4 +120,14 @@ D. Amazon EBS.
 
 - C
 
-16. 
+16. Which of the following are examples of AWS-Managed Services, where AWS is responsible for the operational and maintenance burdens of running the service? (Choose TWO)
+
+A. Amazon VPC.
+B. Amazon DynamoDB.
+C. Amazon Elastic MapReduce.
+D. AWS IAM.
+E. Amazon Elastic Compute Cloud.
+
+- B,C
+
+17. 
