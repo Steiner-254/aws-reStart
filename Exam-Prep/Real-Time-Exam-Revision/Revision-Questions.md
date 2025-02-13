@@ -139,4 +139,12 @@ E. Amazon EC2.
 
 - A,B
 
-18. 
+18. What is the AWS service that enables AWS architects to manage infrastructure as code?
+A. AWS CloudFormation.
+B. AWS Config.
+C. Amazon SES.
+D. Amazon EMR.
+
+- A
+
+19. 
