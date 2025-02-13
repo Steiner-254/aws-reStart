@@ -36,4 +36,13 @@ D. There are no cost benefits from using consolidated billing; It is for informa
 
 - B 
 
-6. 
+6. A company has developed an eCommerce web application in AWS. What should they do to ensure that the application has the highest level of availability?
+
+A. Deploy the application across multiple Availability Zones and Edge locations.
+B. Deploy the application across multiple Availability Zones and subnets.
+C. Deploy the application across multiple Regions and Availability Zones.
+D. Deploy the application across multiple VPC’s and subnets.
+
+- C 
+
+7. 
