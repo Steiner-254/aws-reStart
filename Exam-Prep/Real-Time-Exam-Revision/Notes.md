@@ -66,4 +66,5 @@
 - **AWS Cloud9** is a cloud-based integrated development environment (IDE) that lets you write, run, and debug code from any machine with just a browser.
 - **AWS Data Pipeline** is a web service that you can use to automate the movement and transformation of data. With AWS Data Pipeline, you can define data-driven workflows, so that tasks can be dependent on the successful completion of previous tasks.
 - **Amazon Elastic Container Service (Amazon ECS)** is a fully managed container orchestration service that helps you easily deploy, manage, and scale containerized applications. As a fully managed service, Amazon ECS comes with AWS configuration and operational best practices built-in.
+- **Amazon S3 Transfer Acceleration** can speed up content transfers to and from Amazon S3 by as much as 50-500% for long-distance transfer of larger objects.
 - 
