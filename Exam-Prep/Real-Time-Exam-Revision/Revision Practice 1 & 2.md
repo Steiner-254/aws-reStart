@@ -375,4 +375,13 @@ E. AWS Config.
 
 - A,E
 
-43. 
+43. Which of the following services will help businesses ensure compliance in AWS?
+
+A. CloudFront.
+B. CloudEndure Migration.
+C. CloudWatch.
+D. CloudTrail.
+
+- D
+
+44. 
