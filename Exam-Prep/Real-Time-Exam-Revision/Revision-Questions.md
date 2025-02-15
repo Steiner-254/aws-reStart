@@ -193,4 +193,13 @@ D. Amazon RDS.
 
 - A
 
-24. 
+24. Which of the following is NOT correct regarding Amazon EC2 On-demand instances?
+
+A. You have to pay a start-up fee when launching a new instance for the first time.
+B. The on-demand instances follow the AWS pay-as-you-go pricing model.
+C. With on-demand instances, no longer-term commitments or upfront payments are needed.
+D. When using on-demand Linux instances, you are charged per second based on an hourly rate.
+
+- A
+
+25. 
