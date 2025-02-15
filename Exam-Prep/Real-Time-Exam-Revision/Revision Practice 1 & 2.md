@@ -412,4 +412,14 @@ D. Deploying your AWS resources across multiple Availability Zones.
 
 - A
 
-47. 
+47. Using Amazon RDS falls under the shared responsibility model. Which of the following are customer responsibilities? (Choose TWO)
+
+A. Building the relational database schema.
+B. Performing backups.
+C. Managing the database settings.
+D. Patching the database software.
+E. Installing the database software.
+
+- A,C 
+
+48. 
