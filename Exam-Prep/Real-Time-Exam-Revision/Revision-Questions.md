@@ -166,4 +166,13 @@ D. Convertible RI.
 
 - D
 
-21. update
+21. A global company with a large number of AWS accounts is seeking a way in which they can centrally manage billing and security policies across all accounts. Which AWS Service will assist them in meeting these goals?
+
+A. AWS Organizations.
+B. AWS Trusted Advisor.
+C. IAM User Groups.
+D. AWS Config.
+
+- A
+
+22. 
