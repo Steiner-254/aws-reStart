@@ -248,4 +248,14 @@ D. The AWS customers are only allowed to perform penetration testing on services
 
 - C
 
-30. 
+30. The principle “design for failure and nothing will fail” is very important when designing your AWS Cloud architecture. Which of the following would help adhere to this principle? (Choose TWO)
+
+A. Multi-factor authentication.
+B. Availability Zones.
+C. Elastic Load Balancing.
+D. Penetration testing.
+E. Vertical Scaling.
+
+- B,C
+
+31. 
