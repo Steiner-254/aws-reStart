@@ -175,4 +175,13 @@ D. AWS Config.
 
 - A
 
-22. 
+22. A company is concerned that they are spending money on underutilized compute resources in AWS. Which AWS feature will help ensure that their applications are automatically adding/removing EC2 compute capacity to closely match the required demand?
+
+A. AWS Elastic Load Balancer.
+B. AWS Budgets.
+C. AWS Auto Scaling.
+D. AWS Cost Explorer.
+
+- C
+
+23. 
