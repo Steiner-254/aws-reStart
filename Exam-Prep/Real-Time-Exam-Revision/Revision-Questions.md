@@ -258,4 +258,13 @@ E. Vertical Scaling.
 
 - B,C
 
-31. 
+31. What is the AWS service that provides a virtual network dedicated to your AWS account?
+
+A. AWS VPN.
+B. AWS Subnets.
+C. AWS Dedicated Hosts.
+D. Amazon VPC.
+
+- D
+
+32. 
