@@ -287,4 +287,13 @@ E. AWS Lambda.
 
 - D,E
 
-34. 
+34. Which of the following EC2 instance purchasing options supports the Bring Your Own License (BYOL) model for almost every BYOL scenario?
+
+A. Dedicated Instances.
+B. Dedicated Hosts.
+C. On-demand Instances.
+D. Reserved Instances.
+
+- B
+
+35. 
