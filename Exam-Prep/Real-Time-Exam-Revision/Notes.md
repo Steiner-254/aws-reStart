@@ -50,4 +50,5 @@
 - **Customers use Amazon CloudFront to stream video to viewers** across the globe using a wide variety of protocols that are layered on top of HTTP. The Amazon Content Delivery Network (CDN) can be used with AWS Elemental Media Services to implement two different types of video streaming.
 - **AWS Quick Starts** are automated reference architectures that streamline the deployment of key workloads on the AWS Cloud. They use infrastructure as code to provision production environments on AWS that may require hundreds of discreet procedures to deploy manually.
 - **AWS Quick Start reference deployments** are automated architectures that guide users through deploying workloads on AWS. They use AWS CloudFormation templates to launch deployments into accounts. 
+- **AWS S3 Intelligent-Tiering** automatically stores objects in three access tiers: one tier optimized for frequent access, a lower-cost tier optimized for infrequent access, and a very-low-cost tier optimized for rarely accessed data.
 - 
