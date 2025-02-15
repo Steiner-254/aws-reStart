@@ -393,4 +393,14 @@ D. Move all the data stored in S3 standard to EBS.
 
 - B
 
-45. 
+45. What are the AWS services/features that can help you maintain a highly available and fault-tolerant architecture in AWS? (Choose TWO)
+
+A. AWS Direct Connect.
+B. Amazon EC2 Auto Scaling.
+C. Elastic Load Balancer.
+D. CloudFormation.
+E. Network ACLs.
+
+- B,C
+
+46. 
