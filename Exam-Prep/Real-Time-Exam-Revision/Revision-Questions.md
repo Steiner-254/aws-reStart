@@ -296,4 +296,8 @@ D. Reserved Instances.
 
 - B
 
+### Explanation in Simple Terms:
+- A Dedicated Host is like renting a whole physical server just for yourself in AWS. This is different from regular cloud instances, where your virtual machines might share hardware with other AWS customers.
+- When you bring your own software license (BYOL), like Windows or SQL Server, some licenses require that you run them on a specific physical machine. Dedicated Hosts help with this because they let you track and control exactly which server your software is running on, making it easier to comply with licensing rules.
+
 35. 
