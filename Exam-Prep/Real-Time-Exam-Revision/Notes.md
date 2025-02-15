@@ -55,4 +55,5 @@
 - **Amazon S3 Standard** is a storage class for data that is accessed frequently. It's the default storage class for Amazon S3. 
 - **Amazon S3 Standard-Infrequent Access (S3 Standard-IA)** is a storage class for data that's accessed infrequently but needs to be available quickly. It's a good choice for long-term storage, backups, and disaster recovery. 
 - **AWS Infrastructure Event Management (IEM)** offers architecture and scaling guidance and operational support during the preparation and execution of planned events such as shopping holidays, product launches, or migrations.
+- **Amazon Relational Database Service (RDS)** helps in database maintainance hence saving time.
 - 
