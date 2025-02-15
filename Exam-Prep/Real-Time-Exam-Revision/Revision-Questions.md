@@ -239,4 +239,13 @@ D. Provision a large compute capacity to handle any spikes in load
 
 - C
 
-29. 
+29. According to the AWS Acceptable Use Policy, which of the following statements is true regarding penetration testing of EC2 instances?
+
+A. Penetration testing is not allowed in AWS.
+B. Penetration testing is performed automatically by AWS to determine vulnerabilities in your AWS infrastructure.
+C. Penetration testing can be performed by the customer on their own instances without prior authorization from AWS.
+D. The AWS customers are only allowed to perform penetration testing on services managed by AWS.
+
+- C
+
+30. 
