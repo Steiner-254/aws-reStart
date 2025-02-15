@@ -403,4 +403,13 @@ E. Network ACLs.
 
 - B,C
 
-46. 
+46. Which of the following activities may help reduce your AWS monthly costs?
+
+A. Enabling Amazon EC2 Auto Scaling for all of your workloads.
+B. Using the AWS Network Load Balancer (NLB) to load balance the incoming HTTP requests.
+C. Removing all of your Cost Allocation Tags.
+D. Deploying your AWS resources across multiple Availability Zones.
+
+- A
+
+47. 
