@@ -384,4 +384,13 @@ D. CloudTrail.
 
 - D
 
-44. 
+44. Which of the following procedures will help reduce your Amazon S3 costs?
+
+A. Use the Import/Export feature to move old files automatically to Amazon Glacier.
+B. Use the right combination of storage classes based on different use cases.
+C. Pick the right Availability Zone for your S3 bucket.
+D. Move all the data stored in S3 standard to EBS.
+
+- B
+
+45. 
