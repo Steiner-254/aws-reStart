@@ -365,4 +365,14 @@ D. The ability to manage datacenter operations more efficiently.
 
 - C
 
-42. 
+42. What are the change management tools that helps AWS customers audit and monitor all resource changes in their AWS environment? (Choose TWO)
+
+A. AWS CloudTrail.
+B. Amazon Comprehend.
+C. AWS Transit Gateway.
+D. AWS X-Ray.
+E. AWS Config.
+
+- A,E
+
+43. 
