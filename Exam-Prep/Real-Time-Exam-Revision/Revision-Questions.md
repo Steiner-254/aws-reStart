@@ -263,7 +263,7 @@ E. Vertical Scaling.
 A. AWS VPN.
 B. AWS Subnets.
 C. AWS Dedicated Hosts.
-D. Amazon VPC.
+D. Amazon VPC (Virtual Private Cloud).
 
 - D
 
