@@ -431,4 +431,11 @@ D. AWS Professional Services.
 
 - A
 
-49. 
+49. Jessica is managing an e-commerce web application in AWS. The application is hosted on six EC2 instances. One day, three of the instances crashed; but none of her customers were affected. What has Jessica done correctly in this scenario?
+
+A. She has properly built an elastic system.
+B. She has properly built a fault tolerant system.
+C. She has properly built an encrypted system.
+D. She has properly built a scalable system.
+
+- B
