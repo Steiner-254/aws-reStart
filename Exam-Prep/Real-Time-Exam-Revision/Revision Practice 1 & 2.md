@@ -346,4 +346,14 @@ D. AMI.
 
 - D
 
-40. 
+40. What are two advantages of using Cloud Computing over using traditional data centers? (Choose TWO)
+
+A. Reserved Compute capacity.
+B. Eliminating Single Points of Failure (SPOFs).
+C. Distributed infrastructure.
+D. Virtualized compute resources.
+E. Dedicated hosting.
+
+- B,C
+
+41. 
