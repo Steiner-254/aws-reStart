@@ -184,4 +184,13 @@ D. AWS Cost Explorer.
 
 - C
 
-23. 
+23. What is the AWS database service that allows you to upload data structured in key-value format?
+
+A. Amazon DynamoDB.
+B. Amazon Aurora.
+C. Amazon Redshift.
+D. Amazon RDS.
+
+- A
+
+24. 
