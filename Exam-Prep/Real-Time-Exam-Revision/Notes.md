@@ -52,4 +52,5 @@
 - **AWS Quick Start reference deployments** are automated architectures that guide users through deploying workloads on AWS. They use AWS CloudFormation templates to launch deployments into accounts. 
 - **AWS S3 Intelligent-Tiering** automatically stores objects in three access tiers: one tier optimized for frequent access, a lower-cost tier optimized for infrequent access, and a very-low-cost tier optimized for rarely accessed data.
 - **AWS S3 Glacier Flexible Retrieval** is used for backup and disaster recovery use cases.
+- **Amazon S3 Standard** is a storage class for data that is accessed frequently. It's the default storage class for Amazon S3. 
 - 
