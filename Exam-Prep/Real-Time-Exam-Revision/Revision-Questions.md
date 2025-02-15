@@ -319,4 +319,13 @@ E. Remove single points of failure.
 
 - D,E
 
-37. 
+37. You are working on two projects that require completely different network configurations. Which AWS service or feature will allow you to isolate resources and network configurations?
+
+A. Internet gateways.
+B. Virtual Private Cloud.
+C. Security Groups.
+D. Amazon CloudFront.
+
+- B
+
+38. 
