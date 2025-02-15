@@ -337,4 +337,13 @@ D. Access keys.
 
 - C
 
-39. 
+39. In your on-premises environment, you can create as many virtual servers as you need from a single template. What can you use to perform the same in AWS?
+
+A. IAM.
+B. An internet gateway.
+C. EBS Snapshot.
+D. AMI.
+
+- D
+
+40. 
