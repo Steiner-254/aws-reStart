@@ -61,4 +61,5 @@
 - **AWS Lambda** is a serverless compute service that runs your code in response to events and automatically manages the underlying compute resources for you. These events may include changes in state or an update, such as a user placing an item in a shopping cart on an ecommerce website.
 - **AWS Instance Store** is a teporarily storage volume that acts as a physical hard drive. It provides temporary storage for Amazon EC2 instance. The data in an instance store persists during the lifetime of its instance.
 - **Amazon Virtual Private Cloud (VPC)** is an AWS service that lets you isolate resources and network configurations in a virtual network. You can use VPC to launch AWS resources in a logically isolated virtual network. 
+- **Amazon EMR (previously called Amazon Elastic MapReduce)** is a managed cluster platform that simplifies running big data frameworks, such as Apache Hadoop and Apache Spark , on AWS to process and analyze vast amounts of data.
 - 
