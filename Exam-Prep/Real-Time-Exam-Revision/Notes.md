@@ -56,4 +56,5 @@
 - **Amazon S3 Standard-Infrequent Access (S3 Standard-IA)** is a storage class for data that's accessed infrequently but needs to be available quickly. It's a good choice for long-term storage, backups, and disaster recovery. 
 - **AWS Infrastructure Event Management (IEM)** offers architecture and scaling guidance and operational support during the preparation and execution of planned events such as shopping holidays, product launches, or migrations.
 - **Amazon Relational Database Service (RDS)** helps in database maintainance hence saving time.
+- **Amazon Connect** is an Amazon Web Services (AWS) public cloud customer contact center service. Amazon Connect enables customer service representatives to respond to phone calls or chat inquiries from end customers just as if the contact center infrastructure was set up and managed on premises.
 - 
