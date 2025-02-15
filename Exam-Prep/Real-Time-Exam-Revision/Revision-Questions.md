@@ -230,4 +230,13 @@ D. AWS Support Concierge Service.
 
 - C
 
-28. 
+28. Which of the below is a best-practice when designing solutions on AWS?
+
+A. Invest heavily in architecting your environment, as it is not easy to change your design later.
+B. Use AWS reservations to reduce costs when testing your production environment.
+C. Automate wherever possible to make architectural (© ) experimentation easier.
+D. Provision a large compute capacity to handle any spikes in load
+
+- C
+
+29. 
