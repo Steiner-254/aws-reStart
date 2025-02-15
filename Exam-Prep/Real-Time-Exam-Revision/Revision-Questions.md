@@ -267,4 +267,14 @@ D. Amazon VPC (Virtual Private Cloud).
 
 - D
 
-32. 
+32. According to the AWS Shared responsibility model, which of the following are the responsibility of the customer? (Choose TWO)
+
+A. Managing environmental events of AWS data centers.
+B. Protecting the confidentiality of data in transit in Amazon S3.
+C. Controlling physical access to AWS Regions.
+D. Ensuring that the underlying EC2 host is configured properly.
+E. Patching applications installed on Amazon EC2.
+
+- B,E
+
+33. 
