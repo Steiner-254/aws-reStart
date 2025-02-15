@@ -57,4 +57,5 @@
 - **AWS Infrastructure Event Management (IEM)** offers architecture and scaling guidance and operational support during the preparation and execution of planned events such as shopping holidays, product launches, or migrations.
 - **Amazon Relational Database Service (RDS)** helps in database maintainance hence saving time.
 - **Amazon Connect** is an Amazon Web Services (AWS) public cloud customer contact center service. Amazon Connect enables customer service representatives to respond to phone calls or chat inquiries from end customers just as if the contact center infrastructure was set up and managed on premises.
+- **AWS Direct Connect** is a networking service that provides an alternative to using the internet to connect to AWS. Using AWS Direct Connect, data that would have previously been transported over the internet is delivered through a private network connection between your facilities and AWS.
 - 
