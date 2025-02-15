@@ -64,4 +64,5 @@
 - **Amazon EMR (previously called Amazon Elastic MapReduce)** is a managed cluster platform that simplifies running big data frameworks, such as Apache Hadoop and Apache Spark , on AWS to process and analyze vast amounts of data.
 - **Amazon Machine Image (AMI)** is used to create virtual servers (Amazon Elastic Compute Cloud or EC2 instances) in the Amazon Web Services (AWS) environment.
 - **AWS Cloud9** is a cloud-based integrated development environment (IDE) that lets you write, run, and debug code from any machine with just a browser.
+- **AWS Data Pipeline** is a web service that you can use to automate the movement and transformation of data. With AWS Data Pipeline, you can define data-driven workflows, so that tasks can be dependent on the successful completion of previous tasks.
 - 
