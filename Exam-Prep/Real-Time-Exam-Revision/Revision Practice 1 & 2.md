@@ -356,4 +356,13 @@ E. Dedicated hosting.
 
 - B,C
 
-41. 
+41. Which statement best describes the operational excellence pillar of the AWS Well-Architected Framework?
+
+A. The ability of a system to recover gracefully from failure.
+B. The efficient use of computing resources to meet requirements.
+C. The ability to monitor systems and improve supporting processes and procedures.
+D. The ability to manage datacenter operations more efficiently.
+
+- C
+
+42. 
