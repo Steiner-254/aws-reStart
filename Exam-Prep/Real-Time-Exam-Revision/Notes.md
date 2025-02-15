@@ -62,4 +62,5 @@
 - **AWS Instance Store** is a teporarily storage volume that acts as a physical hard drive. It provides temporary storage for Amazon EC2 instance. The data in an instance store persists during the lifetime of its instance.
 - **Amazon Virtual Private Cloud (VPC)** is an AWS service that lets you isolate resources and network configurations in a virtual network. You can use VPC to launch AWS resources in a logically isolated virtual network. 
 - **Amazon EMR (previously called Amazon Elastic MapReduce)** is a managed cluster platform that simplifies running big data frameworks, such as Apache Hadoop and Apache Spark , on AWS to process and analyze vast amounts of data.
+- **Amazon Machine Image (AMI)** is used to create virtual servers (Amazon Elastic Compute Cloud or EC2 instances) in the Amazon Web Services (AWS) environment.
 - 
