@@ -422,4 +422,13 @@ E. Installing the database software.
 
 - A,C 
 
-48. 
+48. A company has created a solution that helps AWS customers improve their architectures on AWS. Which AWS program may support this company?
+
+A. APN Consulting Partners.
+B. AWS TAM.
+C. APN Technology Partners.
+D. AWS Professional Services.
+
+- A
+
+49. 
