@@ -53,4 +53,5 @@
 - **AWS S3 Intelligent-Tiering** automatically stores objects in three access tiers: one tier optimized for frequent access, a lower-cost tier optimized for infrequent access, and a very-low-cost tier optimized for rarely accessed data.
 - **AWS S3 Glacier Flexible Retrieval** is used for backup and disaster recovery use cases.
 - **Amazon S3 Standard** is a storage class for data that is accessed frequently. It's the default storage class for Amazon S3. 
+- **Amazon S3 Standard-Infrequent Access (S3 Standard-IA)** is a storage class for data that's accessed infrequently but needs to be available quickly. It's a good choice for long-term storage, backups, and disaster recovery. 
 - 
