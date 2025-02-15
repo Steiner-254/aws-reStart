@@ -212,4 +212,13 @@ E. Concierge Support Team.
 
 - A,B
 
-26. 
+26. What is the AWS feature that provides an additional level of security above the default authentication mechanism of usernames and passwords?
+
+A. Encrypted keys.
+B. Email verification.
+C. AWS KMS.
+D. AWS MFA.
+
+- D
+
+27. 
