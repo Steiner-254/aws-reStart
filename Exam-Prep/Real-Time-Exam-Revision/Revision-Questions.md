@@ -309,4 +309,14 @@ D. AWS holds responsibility for managing customer applications.
 
 - C
 
-36. 
+36. Which of the following are important design principles you should adopt when designing systems on AWS? (Choose TWO)
+
+A. Always use Global Services in your architecture rather than Regional Services.
+B. Always choose to pay as you go.
+C. Treat servers as fixed resources.
+D. Automate wherever possible.
+E. Remove single points of failure.
+
+- D,E
+
+37. 
