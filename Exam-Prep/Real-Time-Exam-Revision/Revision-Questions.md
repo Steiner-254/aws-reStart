@@ -277,4 +277,14 @@ E. Patching applications installed on Amazon EC2.
 
 - B,E
 
-33. 
+33. Which of the following AWS services can be used as a compute resource? (Choose TWO)
+
+A. Amazon VPC.
+B. Amazon CloudWatch.
+C. Amazon S3.
+D. Amazon EC2.
+E. AWS Lambda.
+
+- D,E
+
+34. 
