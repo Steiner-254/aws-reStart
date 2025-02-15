@@ -221,4 +221,13 @@ D. AWS MFA.
 
 - D
 
-27. 
+27. A company is introducing a new product to their customers, and is expecting a surge in traffic to their web application. As part of their Enterprise Support plan, which of the following provides the company with architectural and scaling guidance?
+
+A. AWS Knowledge Center.
+B. AWS Health Dashboard.
+C. Infrastructure Event Management.
+D. AWS Support Concierge Service.
+
+- C
+
+28. 
