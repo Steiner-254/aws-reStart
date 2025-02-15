@@ -328,4 +328,13 @@ D. Amazon CloudFront.
 
 - B
 
-38. 
+38. What are the default security credentials that are required to access the AWS management console for an IAM user account?
+
+A. MFA.
+B. Security tokens.
+C. A user name and password.
+D. Access keys.
+
+- C
+
+39. 
