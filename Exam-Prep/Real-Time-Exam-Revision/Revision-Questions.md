@@ -202,4 +202,14 @@ D. When using on-demand Linux instances, you are charged per second based on an 
 
 - A
 
-25. 
+25. A company has moved to AWS recently. Which of the following AWS Services will help ensure that they have the proper security settings? (Choose TWO)
+
+A. AWS Trusted Advisor.
+B. Amazon Inspector.
+C. Amazon SNS.
+D. Amazon CloudWatch.
+E. Concierge Support Team.
+
+- A,B
+
+26. 
