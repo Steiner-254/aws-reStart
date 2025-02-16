@@ -74,4 +74,6 @@ D. Amazon EBS.
 E. Amazon DynamoDB.
 
 - C,E
-- 
+- Both Amazon S3 and Amazon DynamoDB are designed for Multi-AZ fault tolerance by default, meaning they automatically replicate data across multiple Availability Zones (AZs) to ensure high availability and durability.
+
+8. 
