@@ -43,4 +43,6 @@ C. Combine On-demand Capacity Reservations with Saving Plans.
 D. Use a Multi-Region Active-Active architecture.
 
 - A
-- 
+- Right-sizing means selecting the correct database instance size based on your actual workload. Before migrating to Amazon RDS, the company should analyze its current usage to avoid over-provisioning. After migration, it should monitor performance and adjust instance size if needed. This helps keep costs low by avoiding unnecessary spending on oversized resources.
+
+5. 
