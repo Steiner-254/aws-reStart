@@ -16,4 +16,13 @@ E. Amazon EMR.
 
 - A,C
 
-2. 
+2. Which AWS service can be used to store and reliably deliver messages across distributed systems?
+
+A. Amazon Simple Queue Service.
+B. AWS Storage Gateway.
+C. Amazon Simple Email Service.
+D. Amazon Simple Storage Service.
+
+- A
+
+3. 
