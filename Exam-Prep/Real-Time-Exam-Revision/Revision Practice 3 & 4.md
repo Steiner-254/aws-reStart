@@ -53,5 +53,6 @@ C. Amazon EFS.
 D. Amazon S3.
 
 - B
+- Amazon RDS stores data on Amazon EBS volumes, which provide high-performance, durable, and reliable block storage for database instances. EBS is optimized for databases and allows features like backups, snapshots, and resizing.
 
 6. 
