@@ -35,4 +35,12 @@ D. Save when you reserve.
 - D
 - AWS offers Reserved Instances for Amazon EC2, where you commit to using a specific instance type for one or three years in exchange for a discounted rate compared to On-Demand pricing. This helps lower total computing costs.
 
-4. 
+4. A company is migrating its on-premises database to Amazon RDS. What should the company do to ensure Amazon RDS costs are kept to a minimum?
+
+A. Right-size before and after migration.
+B. Use a Multi-Region Active-Passive architecture.
+C. Combine On-demand Capacity Reservations with Saving Plans.
+D. Use a Multi-Region Active-Active architecture.
+
+- A
+- 
