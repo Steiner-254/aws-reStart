@@ -63,4 +63,6 @@ C. Amazon Inspector.
 D. AWS CloudTrail.
 
 - B
-- 
+- AWS X-Ray helps analyze and debug microservices applications by tracing requests as they travel through different services. It provides insights into performance bottlenecks, latency issues, and errors in distributed applications, making it the best tool for troubleshooting microservices performance problems.
+
+7. 
