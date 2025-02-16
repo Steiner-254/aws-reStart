@@ -65,4 +65,13 @@ D. AWS CloudTrail.
 - B
 - AWS X-Ray helps analyze and debug microservices applications by tracing requests as they travel through different services. It provides insights into performance bottlenecks, latency issues, and errors in distributed applications, making it the best tool for troubleshooting microservices performance problems.
 
-7. 
+7. Which of the following AWS services is designed with native Multi-AZ fault tolerance in mind? (Choose TWO)
+
+A. Amazon Redshift.
+B. AWS Snowball.
+C. Amazon Simple Storage Service.
+D. Amazon EBS.
+E. Amazon DynamoDB.
+
+- C,E
+- 
