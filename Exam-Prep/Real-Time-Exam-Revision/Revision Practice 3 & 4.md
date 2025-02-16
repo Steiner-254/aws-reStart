@@ -25,4 +25,12 @@ D. Amazon Simple Storage Service.
 
 - A
 
-3. 
+3. Which of the following describes the payment model that AWS makes available for customers that can commit to using Amazon EC2 over a one or 3-year term to reduce their total computing costs?
+
+A. Pay less as AWS grows.
+B. Pay as you go.
+C. Pay less by using more.
+D. Save when you reserve.
+
+- D
+- 
