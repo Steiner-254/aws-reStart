@@ -68,4 +68,5 @@
 - **Amazon Elastic Container Service (Amazon ECS)** is a fully managed container orchestration service that helps you easily deploy, manage, and scale containerized applications. As a fully managed service, Amazon ECS comes with AWS configuration and operational best practices built-in.
 - **Amazon S3 Transfer Acceleration** can speed up content transfers to and from Amazon S3 by as much as 50-500% for long-distance transfer of larger objects.
 - **AWS Glacier** - used for secure storage and data archiving.
+- AWS RDS used for data that is changing frequently while AWS EFS used for data that is not changing frequently.
 - 
