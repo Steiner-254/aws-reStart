@@ -33,4 +33,6 @@ C. Pay less by using more.
 D. Save when you reserve.
 
 - D
-- 
+- AWS offers Reserved Instances for Amazon EC2, where you commit to using a specific instance type for one or three years in exchange for a discounted rate compared to On-Demand pricing. This helps lower total computing costs.
+
+4. 
