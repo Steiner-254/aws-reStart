@@ -45,4 +45,13 @@ D. Use a Multi-Region Active-Active architecture.
 - A
 - Right-sizing means selecting the correct database instance size based on your actual workload. Before migrating to Amazon RDS, the company should analyze its current usage to avoid over-provisioning. After migration, it should monitor performance and adjust instance size if needed. This helps keep costs low by avoiding unnecessary spending on oversized resources.
 
-5. 
+5. What is the primary storage service used by Amazon RDS database instances?
+
+A. Amazon Glacier.
+B. Amazon EBS.
+C. Amazon EFS.
+D. Amazon S3.
+
+- B
+
+6. 
