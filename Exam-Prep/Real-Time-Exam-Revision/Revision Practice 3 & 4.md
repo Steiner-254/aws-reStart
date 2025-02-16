@@ -4,4 +4,16 @@
 
 1. **AWS RDS** & **AWS EFS** are used to read and write for constantly changing data.
 2. **AWS RDS** simplifies administration tasks.
-3. 
+
+##  Quizes
+1. Where can you store files in AWS? (Choose TWO)
+
+A. Amazon EFS.
+B. Amazon SNS.
+C. Amazon EBS.
+D. Amazon ECS.
+E. Amazon EMR.
+
+- A,C
+
+2. 
