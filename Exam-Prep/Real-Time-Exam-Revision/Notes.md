@@ -69,4 +69,5 @@
 - **Amazon S3 Transfer Acceleration** can speed up content transfers to and from Amazon S3 by as much as 50-500% for long-distance transfer of larger objects.
 - **AWS Glacier** - used for secure storage and data archiving.
 - **AWS RDS** used for data that is changing frequently while **AWS EFS** used for data that is not changing frequently.
+- **Consolidated billing** is a billing method that combines multiple accounts into one invoice. It can simplify the billing process and make it easier to track spending. 
 - 
